@@ -7,7 +7,9 @@
     "past": "spelade",
     "supinum": "spelat",
     "zh": "踢足球",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Jouer au football",
+    "de": "Fußball spielen"
   },
   {
     "id": "v_1",
@@ -17,7 +19,9 @@
     "past": "spelade",
     "supinum": "spelat",
     "zh": "打网球",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Je joue au tennis.",
+    "de": "Tennis spielen"
   },
   {
     "id": "v_2",
@@ -27,7 +31,9 @@
     "past": "simmade",
     "supinum": "simmat",
     "zh": "游泳",
-    "group": "G1"
+    "group": "G1",
+    "fr": "nageur",
+    "de": "Schwimmen"
   },
   {
     "id": "v_3",
@@ -37,7 +43,9 @@
     "past": "sprang",
     "supinum": "sprungit",
     "zh": "跑步",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Course à pied",
+    "de": "Laufen"
   },
   {
     "id": "v_4",
@@ -47,7 +55,9 @@
     "past": "cyklade",
     "supinum": "cyklat",
     "zh": "骑自行车",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Vélo",
+    "de": "Fahrrad fahren"
   },
   {
     "id": "v_5",
@@ -57,7 +67,9 @@
     "past": "tranades",
     "supinum": "tranats",
     "zh": "训练/锻炼",
-    "group": "G1被动"
+    "group": "G1被动",
+    "fr": "Entraînement/Exercice",
+    "de": "Training/Übung"
   },
   {
     "id": "v_6",
@@ -67,7 +79,9 @@
     "past": "gymmade",
     "supinum": "gymmat",
     "zh": "去健身房（口语）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Au gymnase (parlé)",
+    "de": "Zum Fitnessstudio (gesprochen)"
   },
   {
     "id": "v_7",
@@ -77,7 +91,9 @@
     "past": "vandrade",
     "supinum": "vandrat",
     "zh": "徒步/远足",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Randonnée/Randonnée",
+    "de": "Wandern/Wandern"
   },
   {
     "id": "v_8",
@@ -87,7 +103,9 @@
     "past": "klättrade",
     "supinum": "klättrat",
     "zh": "攀岩/爬",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Escalade/Escalade",
+    "de": "Klettern/Klettern"
   },
   {
     "id": "v_9",
@@ -97,7 +115,9 @@
     "past": "akte skidor",
     "supinum": "akit skidor",
     "zh": "滑雪",
-    "group": "G1 (aka)"
+    "group": "G1 (aka)",
+    "fr": "Bergiselschanze ",
+    "de": "Skifahren"
   },
   {
     "id": "v_10",
@@ -107,7 +127,9 @@
     "past": "akte",
     "supinum": "akit",
     "zh": "溜冰/滑冰",
-    "group": "G1 (aka)"
+    "group": "G1 (aka)",
+    "fr": "Patinage/Patinage sur glace",
+    "de": "Eislaufen/Schlittschuhlaufen"
   },
   {
     "id": "v_11",
@@ -117,7 +139,9 @@
     "past": "dansade",
     "supinum": "dansat",
     "zh": "跳舞",
-    "group": "G1"
+    "group": "G1",
+    "fr": "La danse",
+    "de": "Tanzen"
   },
   {
     "id": "v_12",
@@ -127,7 +151,9 @@
     "past": "yogade",
     "supinum": "yogat",
     "zh": "练瑜伽（口语化）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Pratiquer le yoga (colloquialisation)",
+    "de": "Yoga praktizieren (Umgangssprache)"
   },
   {
     "id": "v_13",
@@ -137,7 +163,9 @@
     "past": "laste",
     "supinum": "last",
     "zh": "阅读",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Lire",
+    "de": "Lesen"
   },
   {
     "id": "v_14",
@@ -147,7 +175,9 @@
     "past": "skrev",
     "supinum": "skrivit",
     "zh": "写作",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Écrit",
+    "de": "Schreiben"
   },
   {
     "id": "v_15",
@@ -157,7 +187,9 @@
     "past": "ritade",
     "supinum": "ritat",
     "zh": "画画（线描）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Peinture (dessin au trait)",
+    "de": "Malerei (Strichzeichnung)"
   },
   {
     "id": "v_16",
@@ -167,7 +199,9 @@
     "past": "malade",
     "supinum": "malat",
     "zh": "绘画（颜料）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Peinture (pigments)",
+    "de": "Malerei (Pigmente)"
   },
   {
     "id": "v_17",
@@ -177,7 +211,9 @@
     "past": "fotograferade",
     "supinum": "fotograferat",
     "zh": "摄影",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Crédit photo: ",
+    "de": "die Aussichtsplattform auf dem 200 Meter hohen Main"
   },
   {
     "id": "v_18",
@@ -187,7 +223,9 @@
     "past": "lagade mat",
     "supinum": "lagat mat",
     "zh": "烹饪",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Cooking Academy ",
+    "de": "Kochen"
   },
   {
     "id": "v_19",
@@ -197,7 +235,9 @@
     "past": "bakade",
     "supinum": "bakat",
     "zh": "烘焙",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Baking ",
+    "de": "Backen"
   },
   {
     "id": "v_20",
@@ -207,7 +247,9 @@
     "past": "odlade",
     "supinum": "odlat",
     "zh": "种植/园艺",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Plantation/Horticulture",
+    "de": "Plantage/Gartenbau"
   },
   {
     "id": "v_21",
@@ -217,7 +259,9 @@
     "past": "spelade spel",
     "supinum": "spelat spel",
     "zh": "玩游戏（桌游/电游）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Jouer à des jeux (jeux de société/jeux vidéo)",
+    "de": "Spielen (Brettspiele/Videospiele)"
   },
   {
     "id": "v_22",
@@ -227,7 +271,9 @@
     "past": "tittade pa",
     "supinum": "tittat pa",
     "zh": "看电影",
-    "group": "G1"
+    "group": "G1",
+    "fr": "- Au ciné-parc, monsieur.",
+    "de": "Einen Film ansehen"
   },
   {
     "id": "v_23",
@@ -237,7 +283,9 @@
     "past": "reste",
     "supinum": "rest",
     "zh": "旅行",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Battuta ",
+    "de": "Aktivurlaub"
   },
   {
     "id": "v_24",
@@ -247,7 +295,9 @@
     "past": "samlade",
     "supinum": "samlat",
     "zh": "收藏/收集",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Favoris/Collections",
+    "de": "Favoriten/Sammlungen"
   },
   {
     "id": "v_25",
@@ -257,7 +307,9 @@
     "past": "stickade",
     "supinum": "stickat",
     "zh": "织毛衣/针织",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Pull tricoté/tricot",
+    "de": "Strickpullover/Stricken"
   },
   {
     "id": "v_26",
@@ -267,7 +319,9 @@
     "past": "sydde",
     "supinum": "sytt",
     "zh": "缝纫",
-    "group": "G3"
+    "group": "G3",
+    "fr": "tressée ",
+    "de": "Nähen"
   },
   {
     "id": "v_27",
@@ -277,7 +331,9 @@
     "past": "at",
     "supinum": "atit",
     "zh": "吃",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Alimentation",
+    "de": "Essen"
   },
   {
     "id": "v_28",
@@ -287,7 +343,9 @@
     "past": "drack",
     "supinum": "druckit",
     "zh": "喝",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Boire",
+    "de": "Trinken"
   },
   {
     "id": "v_29",
@@ -297,7 +355,9 @@
     "past": "smakade",
     "supinum": "smakat",
     "zh": "品尝 / 尝起来",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Goût/Goût",
+    "de": "Geschmack/Taste"
   },
   {
     "id": "v_30",
@@ -307,7 +367,9 @@
     "past": "tuggade",
     "supinum": "tuggat",
     "zh": "咀嚼",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Munch",
+    "de": "Mampfen"
   },
   {
     "id": "v_31",
@@ -317,7 +379,9 @@
     "past": "svalde",
     "supinum": "svalt",
     "zh": "吞咽",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Hirondelle",
+    "de": "Schwalbe"
   },
   {
     "id": "v_32",
@@ -327,7 +391,9 @@
     "past": "lagade mat",
     "supinum": "lagat mat",
     "zh": "做饭/烹饪",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Cuisine",
+    "de": "Kochen"
   },
   {
     "id": "v_33",
@@ -337,7 +403,9 @@
     "past": "bakade",
     "supinum": "bakat",
     "zh": "烘焙",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Baking ",
+    "de": "Backen"
   },
   {
     "id": "v_34",
@@ -347,7 +415,9 @@
     "past": "kokade",
     "supinum": "kokat",
     "zh": "煮/烹煮",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Cuisine/Cuisine",
+    "de": "Kochen/Cooking"
   },
   {
     "id": "v_35",
@@ -357,7 +427,9 @@
     "past": "stekte",
     "supinum": "stekt",
     "zh": "煎/炒",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Friture/sauté",
+    "de": "Braten/Pfannenrühren"
   },
   {
     "id": "v_36",
@@ -367,7 +439,9 @@
     "past": "frukosterade",
     "supinum": "frukosterat",
     "zh": "吃早饭（正式）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Petit-déjeuner (formel)",
+    "de": "Frühstück (formell)"
   },
   {
     "id": "v_37",
@@ -377,7 +451,9 @@
     "past": "at lunch",
     "supinum": "atit lunch",
     "zh": "吃午饭",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Déjeuner.",
+    "de": "Mittagessen"
   },
   {
     "id": "v_38",
@@ -387,7 +463,9 @@
     "past": "at middag",
     "supinum": "atit middag",
     "zh": "吃晚饭",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "À table ! À table !",
+    "de": "Abendessen"
   },
   {
     "id": "v_39",
@@ -397,7 +475,9 @@
     "past": "sov",
     "supinum": "sovit",
     "zh": "睡觉",
-    "group": "G4"
+    "group": "G4",
+    "fr": "sommeil",
+    "de": "Schlafen"
   },
   {
     "id": "v_40",
@@ -407,7 +487,9 @@
     "past": "vaknade",
     "supinum": "vaknat",
     "zh": "醒来",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Allez.",
+    "de": "Aufwachen"
   },
   {
     "id": "v_41",
@@ -417,7 +499,9 @@
     "past": "somnade",
     "supinum": "somnat",
     "zh": "入睡/睡着",
-    "group": "G1"
+    "group": "G1",
+    "fr": "S'endormir/s'endormir",
+    "de": "Einschlafen/einschlafen"
   },
   {
     "id": "v_42",
@@ -427,7 +511,9 @@
     "past": "vilade",
     "supinum": "vilat",
     "zh": "休息",
-    "group": "G1"
+    "group": "G1",
+    "fr": "ATOLLS AUX ",
+    "de": "Rest"
   },
   {
     "id": "v_43",
@@ -437,7 +523,9 @@
     "past": "lag",
     "supinum": "legat",
     "zh": "躺（着）",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Allongez-vous (vers le bas)",
+    "de": "Liegen (unten)"
   },
   {
     "id": "v_44",
@@ -447,7 +535,9 @@
     "past": "gaspnade",
     "supinum": "gaspnat",
     "zh": "打哈欠",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Tu bâilles, hein ?",
+    "de": "Gähnen"
   },
   {
     "id": "v_45",
@@ -457,7 +547,9 @@
     "past": "droomde",
     "supinum": "droomt",
     "zh": "做梦",
-    "group": "G2b"
+    "group": "G2b",
+    "fr": "Dream Police ",
+    "de": "Träume!"
   },
   {
     "id": "v_46",
@@ -467,7 +559,9 @@
     "past": "slappnade av",
     "supinum": "slappnat av",
     "zh": "放松",
-    "group": "G1 + 小品词"
+    "group": "G1 + 小品词",
+    "fr": "Annonce ",
+    "de": "Abwickeln "
   },
   {
     "id": "v_47",
@@ -477,7 +571,9 @@
     "past": "bodde",
     "supinum": "bott",
     "zh": "居住/住",
-    "group": "G3"
+    "group": "G3",
+    "fr": "Résidence/Occupation",
+    "de": "Residenz/Belegung"
   },
   {
     "id": "v_48",
@@ -487,7 +583,9 @@
     "past": "flyttade",
     "supinum": "flyttat",
     "zh": "搬家/移动",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Déplacement/déplacement",
+    "de": "Bewegen/Bewegen"
   },
   {
     "id": "v_49",
@@ -497,7 +595,9 @@
     "past": "flyttade in",
     "supinum": "flyttat in",
     "zh": "搬入",
-    "group": "G1 + 小品词"
+    "group": "G1 + 小品词",
+    "fr": "emménager",
+    "de": "Einzug"
   },
   {
     "id": "v_50",
@@ -507,7 +607,9 @@
     "past": "flyttade ut",
     "supinum": "flyttat ut",
     "zh": "搬出",
-    "group": "G1 + 小品词"
+    "group": "G1 + 小品词",
+    "fr": "Déménager",
+    "de": "Auszug"
   },
   {
     "id": "v_51",
@@ -517,7 +619,9 @@
     "past": "hyrde",
     "supinum": "hyrt",
     "zh": "租借",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "'rent",
+    "de": "Miete"
   },
   {
     "id": "v_52",
@@ -527,7 +631,9 @@
     "past": "agde",
     "supinum": "agt",
     "zh": "拥有/持有",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Détenu/détenu",
+    "de": "Im Besitz/gehalten"
   },
   {
     "id": "v_53",
@@ -537,7 +643,9 @@
     "past": "stadade",
     "supinum": "stadat",
     "zh": "打扫/清洁",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Nettoyage/nettoyage",
+    "de": "Reinigung/Cleaning"
   },
   {
     "id": "v_54",
@@ -547,7 +655,9 @@
     "past": "diskade",
     "supinum": "diskat",
     "zh": "洗碗",
-    "group": "G1"
+    "group": "G1",
+    "fr": "lave-vaisselle ",
+    "de": "Geschirrspülen"
   },
   {
     "id": "v_55",
@@ -557,7 +667,9 @@
     "past": "tvattade",
     "supinum": "tvottat",
     "zh": "洗（衣物/身体）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Blanchisserie (blanchisserie/carrosserie)",
+    "de": "Wäsche (Wäsche/Körper)"
   },
   {
     "id": "v_56",
@@ -567,7 +679,9 @@
     "past": "lagade",
     "supinum": "lagat",
     "zh": "修理/做（饭）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Réparation/Cuisson (Riz)",
+    "de": "Reparieren/Kochen (Reis)"
   },
   {
     "id": "v_57",
@@ -577,7 +691,9 @@
     "past": "kastade",
     "supinum": "kastat",
     "zh": "扔/抛",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Lancer/Lancer",
+    "de": "Werfen/Werfen"
   },
   {
     "id": "v_58",
@@ -587,7 +703,9 @@
     "past": "sopade",
     "supinum": "sopat",
     "zh": "扫地",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Que tu balaies !",
+    "de": "Den Boden fegen"
   },
   {
     "id": "v_59",
@@ -597,7 +715,9 @@
     "past": "koppte",
     "supinum": "koppt",
     "zh": "买/购买",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Acheter/Acheter",
+    "de": "Kaufen/Kaufen"
   },
   {
     "id": "v_60",
@@ -607,7 +727,9 @@
     "past": "salde",
     "supinum": "salt",
     "zh": "卖/出售",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Vendre/vendre",
+    "de": "Verkaufen/verkaufen"
   },
   {
     "id": "v_61",
@@ -617,7 +739,9 @@
     "past": "betalade",
     "supinum": "betalat",
     "zh": "付钱/结账",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Paiement/Paiement",
+    "de": "Bezahlen/Zur Kasse"
   },
   {
     "id": "v_62",
@@ -627,7 +751,9 @@
     "past": "kostade",
     "supinum": "kostat",
     "zh": "花费/值……钱",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Coût/Valeur… Argent",
+    "de": "Kosten/Wert… Geld"
   },
   {
     "id": "v_63",
@@ -637,7 +763,9 @@
     "past": "sparade",
     "supinum": "sparat",
     "zh": "储蓄/节省",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Économies",
+    "de": "Ersparnisse"
   },
   {
     "id": "v_64",
@@ -647,7 +775,9 @@
     "past": "vaaxlade",
     "supinum": "vaaxlat",
     "zh": "兑换/找零",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Échange/modification",
+    "de": "Umtausch/Änderung"
   },
   {
     "id": "v_65",
@@ -657,7 +787,9 @@
     "past": "bestaallde",
     "supinum": "bestaallst",
     "zh": "预订/点餐",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Réservation/Commande",
+    "de": "Buchung/Bestellung"
   },
   {
     "id": "v_66",
@@ -667,7 +799,9 @@
     "past": "hämtade",
     "supinum": "hämtat",
     "zh": "取/接（人）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Prise en charge/Prise en charge (personnes)",
+    "de": "Abholung/Pick-up (Personen)"
   },
   {
     "id": "v_67",
@@ -677,7 +811,9 @@
     "past": "gick",
     "supinum": "gatt",
     "zh": "走/步行/去",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Marcher/marcher/aller",
+    "de": "Spazieren/spazieren/gehen"
   },
   {
     "id": "v_68",
@@ -687,7 +823,9 @@
     "past": "sprang",
     "supinum": "sprungit",
     "zh": "跑/奔跑",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Exécuter/Exécuter",
+    "de": "Ausführen/Ausführen"
   },
   {
     "id": "v_69",
@@ -697,7 +835,9 @@
     "past": "hoppade",
     "supinum": "hoppat",
     "zh": "跳/蹦",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Sauter/sauter",
+    "de": "Springen/Überspringen"
   },
   {
     "id": "v_70",
@@ -707,7 +847,9 @@
     "past": "klattrade",
     "supinum": "klattrat",
     "zh": "爬/攀爬",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Escalade/Escalade",
+    "de": "Klettern/Klettern"
   },
   {
     "id": "v_71",
@@ -717,7 +859,9 @@
     "past": "simmade",
     "supinum": "simmat",
     "zh": "游泳",
-    "group": "G1"
+    "group": "G1",
+    "fr": "nageur",
+    "de": "Schwimmen"
   },
   {
     "id": "v_72",
@@ -727,7 +871,9 @@
     "past": "flog",
     "supinum": "flugit",
     "zh": "飞/乘飞机",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Vol/Avion",
+    "de": "Flug/Flugzeug"
   },
   {
     "id": "v_73",
@@ -737,7 +883,9 @@
     "past": "akte",
     "supinum": "akit",
     "zh": "乘坐/滑行",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Course/taxi",
+    "de": "Fahrt/Taxi"
   },
   {
     "id": "v_74",
@@ -747,7 +895,9 @@
     "past": "korde",
     "supinum": "kort",
     "zh": "驾驶",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Conduite",
+    "de": "Fahren"
   },
   {
     "id": "v_75",
@@ -757,7 +907,9 @@
     "past": "cyklade",
     "supinum": "cyklat",
     "zh": "骑自行车",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Vélo",
+    "de": "Fahrrad fahren"
   },
   {
     "id": "v_76",
@@ -767,7 +919,9 @@
     "past": "red",
     "supinum": "ridit",
     "zh": "骑马",
-    "group": "G4"
+    "group": "G4",
+    "fr": "Alquezar ",
+    "de": "Reiten"
   },
   {
     "id": "v_77",
@@ -777,7 +931,9 @@
     "past": "vandrade",
     "supinum": "vandrat",
     "zh": "徒步/远足",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Randonnée/Randonnée",
+    "de": "Wandern/Wandern"
   },
   {
     "id": "v_78",
@@ -787,7 +943,9 @@
     "past": "promenerade",
     "supinum": "promenerat",
     "zh": "散步",
-    "group": "G1"
+    "group": "G1",
+    "fr": "- Faire un tour.",
+    "de": "Spazieren"
   },
   {
     "id": "v_79",
@@ -797,7 +955,9 @@
     "past": "roorde pa sig",
     "supinum": "roort pa sig",
     "zh": "运动/活动身体",
-    "group": "G2b"
+    "group": "G2b",
+    "fr": "Exercice physique/Mouvement",
+    "de": "Körperliche Bewegung/Bewegung"
   },
   {
     "id": "v_80",
@@ -807,7 +967,9 @@
     "past": "vande sig",
     "supinum": "vant sig",
     "zh": "转身/转向",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Tourner/Diriger",
+    "de": "Drehen/Lenken"
   },
   {
     "id": "v_81",
@@ -817,7 +979,9 @@
     "past": "stannade",
     "supinum": "stannat",
     "zh": "停止/停留",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Arrêt/Séjour",
+    "de": "Stopp/Aufenthalt"
   },
   {
     "id": "v_82",
@@ -827,7 +991,9 @@
     "past": "vilade",
     "supinum": "vilat",
     "zh": "休息/停下",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Repos/Arrêt",
+    "de": "Ruhe/Stopp"
   },
   {
     "id": "v_83",
@@ -837,7 +1003,9 @@
     "past": "kom",
     "supinum": "kommit",
     "zh": "来/到达",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Venir/Arriver",
+    "de": "Kommen/Ankommen"
   },
   {
     "id": "v_84",
@@ -847,7 +1015,9 @@
     "past": "anlanda",
     "supinum": "anlaant",
     "zh": "抵达（正式）",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Arrivée (officielle)",
+    "de": "Ankunft (offiziell)"
   },
   {
     "id": "v_85",
@@ -857,7 +1027,9 @@
     "past": "aakte",
     "supinum": "aakit",
     "zh": "离开（口语 ge sig iag）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Quitter (spoken ge sig iag)",
+    "de": "Verlassen (gesprochenes ge sig iag)"
   },
   {
     "id": "v_86",
@@ -867,7 +1039,9 @@
     "past": "lamnade",
     "supinum": "lamnat",
     "zh": "离开/离开某处",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Partir/partir quelque part",
+    "de": "Verlassen/irgendwohin gehen"
   },
   {
     "id": "v_87",
@@ -877,7 +1051,9 @@
     "past": "sag",
     "supinum": "sett",
     "zh": "看见/看",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Voir/voir",
+    "de": "Sehen/Seeing"
   },
   {
     "id": "v_88",
@@ -887,7 +1063,9 @@
     "past": "tittade",
     "supinum": "tittat",
     "zh": "注视/观看",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Regarder/Regarder",
+    "de": "Blicken/Beobachten"
   },
   {
     "id": "v_89",
@@ -897,7 +1075,9 @@
     "past": "horde",
     "supinum": "hort",
     "zh": "听见/听到",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Entendre/Entendre",
+    "de": "Hören/Hear"
   },
   {
     "id": "v_90",
@@ -907,7 +1087,9 @@
     "past": "lyssnade",
     "supinum": "lyssnat",
     "zh": "聆听（主动）",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Écoute (active)",
+    "de": "Zuhören (aktiv)"
   },
   {
     "id": "v_91",
@@ -917,7 +1099,9 @@
     "past": "kande",
     "supinum": "kant",
     "zh": "感觉/感受/认识",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Sentiment/Sentiment/Reconnaissance",
+    "de": "Fühlen/Fühlen/Erkennen"
   },
   {
     "id": "v_92",
@@ -927,7 +1111,9 @@
     "past": "luktade",
     "supinum": "luktat",
     "zh": "闻到/有气味",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Odeur/a une odeur",
+    "de": "Riecht/hat Geruch"
   },
   {
     "id": "v_93",
@@ -937,7 +1123,9 @@
     "past": "smakade",
     "supinum": "smakat",
     "zh": "尝到/尝起来",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Goût/Goût",
+    "de": "Geschmack/Taste"
   },
   {
     "id": "v_94",
@@ -947,7 +1135,9 @@
     "past": "rorde vid",
     "supinum": "rort vid",
     "zh": "触摸/接触",
-    "group": "G2b"
+    "group": "G2b",
+    "fr": "Toucher/toucher",
+    "de": "Anfassen/Anfassen"
   },
   {
     "id": "v_95",
@@ -957,7 +1147,9 @@
     "past": "upplevde",
     "supinum": "upplevt",
     "zh": "体验/经历",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Expériences",
+    "de": "Entdeckungen"
   },
   {
     "id": "v_96",
@@ -967,7 +1159,9 @@
     "past": "visste",
     "supinum": "vetat",
     "zh": "知道（事实）",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Savoir (Fait)",
+    "de": "Wissen (Fakt)"
   },
   {
     "id": "v_97",
@@ -977,7 +1171,9 @@
     "past": "kande",
     "supinum": "kant",
     "zh": "认识（人）/感受",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Reconnaître (les gens)/ressentir",
+    "de": "(Menschen) erkennen/fühlen"
   },
   {
     "id": "v_98",
@@ -987,7 +1183,9 @@
     "past": "forstod",
     "supinum": "forstatt",
     "zh": "理解/明白",
-    "group": "不规则"
+    "group": "不规则",
+    "fr": "Comprendre/Comprendre",
+    "de": "Verstehen/Understand"
   },
   {
     "id": "v_99",
@@ -997,7 +1195,9 @@
     "past": "tyckte",
     "supinum": "tyckt",
     "zh": "认为/觉得（主观）",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Pensée/sentiment (subjectif)",
+    "de": "Denken/Fühlen (subjektiv)"
   },
   {
     "id": "v_100",
@@ -1007,7 +1207,9 @@
     "past": "trodde",
     "supinum": "trott",
     "zh": "相信/认为（主观推测）",
-    "group": "G2b"
+    "group": "G2b",
+    "fr": "Croire/Croire (subjectif)",
+    "de": "Believe/Believe (subjektiv)"
   },
   {
     "id": "v_101",
@@ -1017,7 +1219,9 @@
     "past": "menade",
     "supinum": "menat",
     "zh": "意思是/意指",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Signification moyens/moyens",
+    "de": "Bedeutung Mittel/Mittel"
   },
   {
     "id": "v_102",
@@ -1027,7 +1231,9 @@
     "past": "tankte",
     "supinum": "tankt",
     "zh": "思考/打算",
-    "group": "G2a"
+    "group": "G2a",
+    "fr": "Réflexion/intention",
+    "de": "Denken/Beabsichtigen"
   },
   {
     "id": "v_103",
@@ -1037,7 +1243,9 @@
     "past": "kom ihag",
     "supinum": "kommit ihag",
     "zh": "记得/想起来",
-    "group": "不规则+小品词"
+    "group": "不规则+小品词",
+    "fr": "Se souvenir/se souvenir",
+    "de": "Erinnern/Erinnern"
   },
   {
     "id": "v_104",
@@ -1047,7 +1255,9 @@
     "past": "glomade",
     "supinum": "glomt",
     "zh": "忘记",
-    "group": "G1/G2混合"
+    "group": "G1/G2混合",
+    "fr": "Eyemouth ",
+    "de": "Vergessen"
   },
   {
     "id": "v_105",
@@ -1057,7 +1267,9 @@
     "past": "larde sig",
     "supinum": "lart sig",
     "zh": "学习/习得",
-    "group": "G2a+反身"
+    "group": "G2a+反身",
+    "fr": "Apprentissage/Acquisition",
+    "de": "Lernen/Akquise"
   },
   {
     "id": "v_106",
@@ -1067,7 +1279,9 @@
     "past": "undervisade",
     "supinum": "undervisat",
     "zh": "教学/授课",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Enseignement/Enseignement",
+    "de": "Lehre/Teaching"
   },
   {
     "id": "v_107",
@@ -1077,7 +1291,9 @@
     "past": "forklarade",
     "supinum": "forklarat",
     "zh": "解释",
-    "group": "G1"
+    "group": "G1",
+    "fr": "Expliquer",
+    "de": "Erklärung"
   },
   {
     "id": "irr_0",
@@ -1087,7 +1303,9 @@
     "past": "var",
     "supinum": "varit",
     "zh": "是 / 存在",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Oui/Existe",
+    "de": "Ja/Vorhanden"
   },
   {
     "id": "irr_1",
@@ -1097,7 +1315,9 @@
     "past": "hade",
     "supinum": "haft",
     "zh": "有 / 拥有",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Oui/Possédé",
+    "de": "Ja/Im Besitz"
   },
   {
     "id": "irr_2",
@@ -1107,7 +1327,9 @@
     "past": "gick",
     "supinum": "gått",
     "zh": "走 / 步行 / 去（步行方式）",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Marcher/Marcher/Aller (méthode de la marche)",
+    "de": "Gehen/Walking/Going (Walking-Methode)"
   },
   {
     "id": "irr_5",
@@ -1117,7 +1339,9 @@
     "past": "tog",
     "supinum": "tagit",
     "zh": "拿 / 取 / 乘坐（交通工具）",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Prise en charge/prise en charge/course (transport)",
+    "de": "Abholung/Abholung/Fahrt (Transport)"
   },
   {
     "id": "irr_6",
@@ -1127,7 +1351,9 @@
     "past": "gav",
     "supinum": "gett / givit",
     "zh": "给",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Agadir ",
+    "de": "a n"
   },
   {
     "id": "irr_7",
@@ -1137,7 +1363,9 @@
     "past": "gjorde",
     "supinum": "gjort",
     "zh": "做 / 干（某事）",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "À faire/À faire (qc)",
+    "de": "Do/Do (sth)"
   },
   {
     "id": "irr_9",
@@ -1147,7 +1375,9 @@
     "past": "kände",
     "supinum": "känt",
     "zh": "认识某人；感受到某事（接名词或形容词）",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "connaître qn ; sentir qch (nom ou adjectif)",
+    "de": "know sb; feel sth (Substantiv oder Adjektiv)"
   },
   {
     "id": "irr_10",
@@ -1157,7 +1387,9 @@
     "past": "snabb（快的）",
     "supinum": "snabbt",
     "zh": "快地",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Rapide",
+    "de": "Schnell"
   },
   {
     "id": "irr_11",
@@ -1167,7 +1399,9 @@
     "past": "glad（高兴的）",
     "supinum": "glatt",
     "zh": "高兴地",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Enchanté",
+    "de": "Begeistert"
   },
   {
     "id": "irr_12",
@@ -1177,7 +1411,9 @@
     "past": "tyst（安静的）",
     "supinum": "tyst（不变）",
     "zh": "安静地",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Sans faire de bruit.",
+    "de": "Leise"
   },
   {
     "id": "irr_13",
@@ -1187,7 +1423,9 @@
     "past": "naturlig（自然的）",
     "supinum": "naturligtvis / naturligen",
     "zh": "当然地 / 自然地",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "Bien sûr/naturellement",
+    "de": "Natürlich/natürlich"
   },
   {
     "id": "irr_14",
@@ -1197,7 +1435,9 @@
     "past": "dels（部分地）",
     "supinum": "—",
     "zh": "（词汇化副词）",
-    "group": "G4/不规则"
+    "group": "G4/不规则",
+    "fr": "(adverbe lexicalisé)",
+    "de": "(lexikalisiertes Adverb)"
   },
   {
     "id": "irr_16",

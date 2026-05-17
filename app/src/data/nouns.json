@@ -178,7 +178,8 @@
     "zh": "奶酪",
     "en": "cheese",
     "base": "ost",
-    "de": "Käse"
+    "de": "Käse",
+    "fr": "fromage"
   },
   {
     "id": "n_13",
@@ -2808,7 +2809,9 @@
     "definite_pl": "kostymerna",
     "zh": "西装（套装）",
     "en": "suit",
-    "base": "kostym"
+    "base": "kostym",
+    "fr": "costume",
+    "de": "Anzug"
   },
   {
     "id": "n_201",
@@ -2820,7 +2823,9 @@
     "definite_pl": "hoodierna",
     "zh": "连帽衫",
     "en": "hoodie",
-    "base": "hoodie"
+    "base": "hoodie",
+    "fr": "sweat à capuche",
+    "de": "Kapuzenpullover"
   },
   {
     "id": "n_202",
@@ -2832,7 +2837,9 @@
     "definite_pl": "—",
     "zh": "裤子（一条）",
     "en": "trousers / pants",
-    "base": "par byxor"
+    "base": "par byxor",
+    "fr": "pantalons / pantalons",
+    "de": "hosen / Hosen"
   },
   {
     "id": "n_203",
@@ -2844,7 +2851,9 @@
     "definite_pl": "jeansen",
     "zh": "牛仔裤",
     "en": "jeans",
-    "base": "jeans"
+    "base": "jeans",
+    "fr": "jean",
+    "de": "Jeanshose"
   },
   {
     "id": "n_204",
@@ -2856,7 +2865,9 @@
     "definite_pl": "kjolarna",
     "zh": "裙子",
     "en": "skirt",
-    "base": "kjol"
+    "base": "kjol",
+    "fr": "plissée",
+    "de": "Rock"
   },
   {
     "id": "n_205",
@@ -2868,7 +2879,9 @@
     "definite_pl": "klänningarna",
     "zh": "连衣裙",
     "en": "dress",
-    "base": "klänning"
+    "base": "klänning",
+    "fr": "robe",
+    "de": "Kleid"
   },
   {
     "id": "n_206",
@@ -2880,7 +2893,9 @@
     "definite_pl": "—",
     "zh": "短裤",
     "en": "shorts",
-    "base": "par shorts"
+    "base": "par shorts",
+    "fr": "shorts",
+    "de": "kurze Hose"
   },
   {
     "id": "n_207",
@@ -2892,7 +2907,9 @@
     "definite_pl": "overallerna",
     "zh": "工装裤/连体服",
     "en": "overalls / dungarees",
-    "base": "overall"
+    "base": "overall",
+    "fr": "Salopettes et bleus de travail",
+    "de": "overalls / Latzhosen"
   },
   {
     "id": "n_208",
@@ -2904,7 +2921,9 @@
     "definite_pl": "—",
     "zh": "睡衣",
     "en": "pyjamas",
-    "base": "pyjamas"
+    "base": "pyjamas",
+    "fr": "pyjama",
+    "de": "Pyjama"
   },
   {
     "id": "n_209",
@@ -2916,7 +2935,9 @@
     "definite_pl": "—",
     "zh": "游泳衣/泳装",
     "en": "swimwear",
-    "base": "badkläder"
+    "base": "badkläder",
+    "fr": "Maillots de bain",
+    "de": "Bademoden"
   },
   {
     "id": "n_210",
@@ -2928,7 +2949,9 @@
     "definite_pl": "—",
     "zh": "一双鞋",
     "en": "a pair of shoes",
-    "base": "par skor"
+    "base": "par skor",
+    "fr": "Paire de chaussures",
+    "de": "ein Paar Schuhe"
   },
   {
     "id": "n_211",
@@ -2940,7 +2963,9 @@
     "definite_pl": "kängorna",
     "zh": "靴子/高帮鞋",
     "en": "boot / high-top shoe",
-    "base": "känga"
+    "base": "känga",
+    "fr": "botte /chaussure montante",
+    "de": "stiefel /High-Top-Schuh"
   },
   {
     "id": "n_212",
@@ -2952,7 +2977,9 @@
     "definite_pl": "—",
     "zh": "一双袜子",
     "en": "a pair of socks",
-    "base": "par strumpor"
+    "base": "par strumpor",
+    "fr": "une paire de chaussettes",
+    "de": "ein Paar Socken"
   },
   {
     "id": "n_213",
@@ -2964,7 +2991,9 @@
     "definite_pl": "strumporna",
     "zh": "袜子（单只）",
     "en": "sock / stocking",
-    "base": "strumpa"
+    "base": "strumpa",
+    "fr": "chaussette / bas",
+    "de": "socke / Strumpf"
   },
   {
     "id": "n_214",
@@ -2976,7 +3005,9 @@
     "definite_pl": "mössorna",
     "zh": "毛线帽/针织帽",
     "en": "beanie / woollen hat",
-    "base": "mössa"
+    "base": "mössa",
+    "fr": "bonnet /bonnet de laine",
+    "de": "beanie / Wollmütze"
   },
   {
     "id": "n_215",
@@ -2988,7 +3019,9 @@
     "definite_pl": "hattarna",
     "zh": "帽子（有帽檐）",
     "en": "hat",
-    "base": "hatt"
+    "base": "hatt",
+    "fr": "chapeau",
+    "de": "Hut"
   },
   {
     "id": "n_216",
@@ -3000,7 +3033,9 @@
     "definite_pl": "halsdukarna",
     "zh": "围巾",
     "en": "scarf",
-    "base": "halsduk"
+    "base": "halsduk",
+    "fr": "l'écharpe",
+    "de": "tuch"
   },
   {
     "id": "n_217",
@@ -3012,7 +3047,9 @@
     "definite_pl": "—",
     "zh": "一双手套",
     "en": "a pair of gloves",
-    "base": "par handskar"
+    "base": "par handskar",
+    "fr": "Paires de gants",
+    "de": "Um ein Paar Handschuhe!«"
   },
   {
     "id": "n_218",
@@ -3024,7 +3061,9 @@
     "definite_pl": "bältena",
     "zh": "腰带/皮带",
     "en": "belt",
-    "base": "bälte"
+    "base": "bälte",
+    "fr": "large et haute",
+    "de": "rtel"
   },
   {
     "id": "n_219",
@@ -3036,7 +3075,9 @@
     "definite_pl": "väskorna",
     "zh": "包/手提包",
     "en": "bag / handbag",
-    "base": "väska"
+    "base": "väska",
+    "fr": "sac /sac à main",
+    "de": "tasche / Handtasche"
   },
   {
     "id": "n_220",
@@ -3048,7 +3089,9 @@
     "definite_pl": "ryggsäckarna",
     "zh": "背包",
     "en": "backpack / rucksack",
-    "base": "ryggsäck"
+    "base": "ryggsäck",
+    "fr": "sac à dos / sac à dos",
+    "de": "Rucksack"
   },
   {
     "id": "n_221",
@@ -3060,7 +3103,9 @@
     "definite_pl": "smyckena",
     "zh": "首饰",
     "en": "jewellery / piece of jewellery",
-    "base": "smycke"
+    "base": "smycke",
+    "fr": "bijoux / pièce de bijoux",
+    "de": "schmuck / Schmuckstück"
   },
   {
     "id": "n_222",
@@ -3072,7 +3117,9 @@
     "definite_pl": "huvudena",
     "zh": "头",
     "en": "head",
-    "base": "huvud"
+    "base": "huvud",
+    "fr": "Tête",
+    "de": "Kopf"
   },
   {
     "id": "n_223",
@@ -3084,7 +3131,9 @@
     "definite_pl": "ansiktena",
     "zh": "脸/面部",
     "en": "face",
-    "base": "ansikte"
+    "base": "ansikte",
+    "fr": "visage",
+    "de": "Gesicht"
   },
   {
     "id": "n_224",
@@ -3096,7 +3145,9 @@
     "definite_pl": "ögonen",
     "zh": "眼睛",
     "en": "eye",
-    "base": "öga"
+    "base": "öga",
+    "fr": "œil",
+    "de": "Auge"
   },
   {
     "id": "n_225",
@@ -3108,7 +3159,9 @@
     "definite_pl": "öronen",
     "zh": "耳朵",
     "en": "ear",
-    "base": "öra"
+    "base": "öra",
+    "fr": "oreille",
+    "de": "Ohr"
   },
   {
     "id": "n_226",
@@ -3120,7 +3173,9 @@
     "definite_pl": "näsorna",
     "zh": "鼻子",
     "en": "nose",
-    "base": "näsa"
+    "base": "näsa",
+    "fr": "nez",
+    "de": "Nase"
   },
   {
     "id": "n_227",
@@ -3132,7 +3187,9 @@
     "definite_pl": "munnarna",
     "zh": "嘴巴",
     "en": "mouth",
-    "base": "mun"
+    "base": "mun",
+    "fr": "la bouche",
+    "de": "Mund"
   },
   {
     "id": "n_228",
@@ -3144,7 +3201,9 @@
     "definite_pl": "tungorna",
     "zh": "舌头",
     "en": "tongue",
-    "base": "tunga"
+    "base": "tunga",
+    "fr": "langue/langues/languette/parler/parole/tirer la langue/ la parole",
+    "de": "Zunge"
   },
   {
     "id": "n_229",
@@ -3156,7 +3215,9 @@
     "definite_pl": "tänderna",
     "zh": "牙齿",
     "en": "tooth",
-    "base": "tand"
+    "base": "tand",
+    "fr": "dent",
+    "de": "Zahn"
   },
   {
     "id": "n_230",
@@ -3168,7 +3229,9 @@
     "definite_pl": "läpparna",
     "zh": "嘴唇",
     "en": "lip",
-    "base": "läpp"
+    "base": "läpp",
+    "fr": "lèvre",
+    "de": "Mund"
   },
   {
     "id": "n_231",
@@ -3180,7 +3243,9 @@
     "definite_pl": "hakorna",
     "zh": "下巴",
     "en": "chin",
-    "base": "haka"
+    "base": "haka",
+    "fr": "Menton",
+    "de": "Kinnvorsprung"
   },
   {
     "id": "n_232",
@@ -3192,7 +3257,9 @@
     "definite_pl": "kinderna",
     "zh": "脸颊",
     "en": "cheek",
-    "base": "kind"
+    "base": "kind",
+    "fr": "joue",
+    "de": "Backe"
   },
   {
     "id": "n_233",
@@ -3204,7 +3271,9 @@
     "definite_pl": "pannorna",
     "zh": "额头",
     "en": "forehead",
-    "base": "panna"
+    "base": "panna",
+    "fr": "le front",
+    "de": "und Stirn beginnt"
   },
   {
     "id": "n_234",
@@ -3216,7 +3285,9 @@
     "definite_pl": "—",
     "zh": "头发",
     "en": "hair",
-    "base": "hår"
+    "base": "hår",
+    "fr": "multi-texturés",
+    "de": "örperbehaarung"
   },
   {
     "id": "n_235",
@@ -3228,7 +3299,9 @@
     "definite_pl": "nackarna",
     "zh": "脖子后部/颈后",
     "en": "back of neck / nape",
-    "base": "nacke"
+    "base": "nacke",
+    "fr": "dos du cou / nuque",
+    "de": "nacken / Nacken"
   },
   {
     "id": "n_236",
@@ -3240,7 +3313,9 @@
     "definite_pl": "halsarna",
     "zh": "脖子/咽喉",
     "en": "neck / throat",
-    "base": "hals"
+    "base": "hals",
+    "fr": "Cou / gorge",
+    "de": "Nacken/Hals"
   },
   {
     "id": "n_237",
@@ -3252,7 +3327,9 @@
     "definite_pl": "axlarna",
     "zh": "肩膀",
     "en": "shoulder",
-    "base": "axel"
+    "base": "axel",
+    "fr": "épaule",
+    "de": "Schulter"
   },
   {
     "id": "n_238",
@@ -3264,7 +3341,9 @@
     "definite_pl": "armarna",
     "zh": "手臂",
     "en": "arm",
-    "base": "arm"
+    "base": "arm",
+    "fr": "bras",
+    "de": "Schwenkarm"
   },
   {
     "id": "n_239",
@@ -3276,7 +3355,9 @@
     "definite_pl": "armbågarna",
     "zh": "肘部",
     "en": "elbow",
-    "base": "armbåge"
+    "base": "armbåge",
+    "fr": "coude",
+    "de": "Ellbogen"
   },
   {
     "id": "n_240",
@@ -3288,7 +3369,9 @@
     "definite_pl": "handledderna",
     "zh": "手腕",
     "en": "wrist",
-    "base": "handledd"
+    "base": "handledd",
+    "fr": "Poignet",
+    "de": "Handgelenk"
   },
   {
     "id": "n_241",
@@ -3300,7 +3383,9 @@
     "definite_pl": "händerna",
     "zh": "手",
     "en": "hand",
-    "base": "hand"
+    "base": "hand",
+    "fr": "la main",
+    "de": "Hand"
   },
   {
     "id": "n_242",
@@ -3312,7 +3397,9 @@
     "definite_pl": "fingrarna",
     "zh": "手指",
     "en": "finger",
-    "base": "finger"
+    "base": "finger",
+    "fr": "doigt",
+    "de": "Finger"
   },
   {
     "id": "n_243",
@@ -3324,7 +3411,9 @@
     "definite_pl": "tummarna",
     "zh": "拇指",
     "en": "thumb",
-    "base": "tumme"
+    "base": "tumme",
+    "fr": "vignette",
+    "de": "Daumen"
   },
   {
     "id": "n_244",
@@ -3336,7 +3425,9 @@
     "definite_pl": "naglarna",
     "zh": "指甲",
     "en": "nail / fingernail",
-    "base": "nagel"
+    "base": "nagel",
+    "fr": "ongle / ongle",
+    "de": "nagel / Fingernagel"
   },
   {
     "id": "n_245",
@@ -3348,7 +3439,9 @@
     "definite_pl": "ryggarna",
     "zh": "背部",
     "en": "back",
-    "base": "rygg"
+    "base": "rygg",
+    "fr": "retour",
+    "de": "zurück"
   },
   {
     "id": "n_246",
@@ -3360,7 +3453,9 @@
     "definite_pl": "magarna",
     "zh": "肚子/腹部",
     "en": "stomach / belly",
-    "base": "mage"
+    "base": "mage",
+    "fr": "estomac / ventre",
+    "de": "bauch"
   },
   {
     "id": "n_247",
@@ -3372,7 +3467,9 @@
     "definite_pl": "brösten",
     "zh": "胸部",
     "en": "chest / breast",
-    "base": "bröst"
+    "base": "bröst",
+    "fr": "Poitrine/seins",
+    "de": "brust / Brust"
   },
   {
     "id": "n_248",
@@ -3384,7 +3481,9 @@
     "definite_pl": "knäna",
     "zh": "膝盖",
     "en": "knee",
-    "base": "knä"
+    "base": "knä",
+    "fr": "genou",
+    "de": "knee"
   },
   {
     "id": "n_249",
@@ -3396,7 +3495,9 @@
     "definite_pl": "låren",
     "zh": "大腿",
     "en": "thigh",
-    "base": "lår"
+    "base": "lår",
+    "fr": "cuisse",
+    "de": "Schenkel"
   },
   {
     "id": "n_250",
@@ -3408,7 +3509,9 @@
     "definite_pl": "benen",
     "zh": "腿/骨头",
     "en": "leg / bone",
-    "base": "ben"
+    "base": "ben",
+    "fr": "Os de la jambe",
+    "de": "Beinknochen"
   },
   {
     "id": "n_251",
@@ -3420,7 +3523,9 @@
     "definite_pl": "anklarna",
     "zh": "脚踝",
     "en": "ankle",
-    "base": "ankel"
+    "base": "ankel",
+    "fr": "tarse",
+    "de": "Knöchel"
   },
   {
     "id": "n_252",
@@ -3432,7 +3537,9 @@
     "definite_pl": "fötterna",
     "zh": "脚",
     "en": "foot",
-    "base": "fot"
+    "base": "fot",
+    "fr": "Pied",
+    "de": "fuss"
   },
   {
     "id": "n_253",
@@ -3444,7 +3551,9 @@
     "definite_pl": "tårna",
     "zh": "脚趾",
     "en": "toe",
-    "base": "tå"
+    "base": "tå",
+    "fr": "butée",
+    "de": "Zehe"
   },
   {
     "id": "n_254",
@@ -3456,7 +3565,9 @@
     "definite_pl": "böckerna",
     "zh": "书",
     "en": "book",
-    "base": "bok"
+    "base": "bok",
+    "fr": "livre",
+    "de": "Buch"
   },
   {
     "id": "n_255",
@@ -3468,7 +3579,9 @@
     "definite_pl": "läroböckerna",
     "zh": "教材/课本",
     "en": "textbook",
-    "base": "lärobok"
+    "base": "lärobok",
+    "fr": "Manuels",
+    "de": "Lehrbuch"
   },
   {
     "id": "n_256",
@@ -3480,7 +3593,9 @@
     "definite_pl": "häftena",
     "zh": "练习本/小册子",
     "en": "notebook / exercise book",
-    "base": "häfte"
+    "base": "häfte",
+    "fr": "cahier /cahier d'exercices",
+    "de": "notizbuch / Übungsheft"
   },
   {
     "id": "n_257",
@@ -3492,7 +3607,9 @@
     "definite_pl": "anteckningsblocken",
     "zh": "笔记本（活页）",
     "en": "notepad",
-    "base": "anteckningsblock"
+    "base": "anteckningsblock",
+    "fr": "bloc-notes",
+    "de": "Notizblock"
   },
   {
     "id": "n_258",
@@ -3504,7 +3621,9 @@
     "definite_pl": "datorerna",
     "zh": "电脑",
     "en": "computer",
-    "base": "dator"
+    "base": "dator",
+    "fr": "calculateur",
+    "de": "Computer"
   },
   {
     "id": "n_259",
@@ -3516,7 +3635,9 @@
     "definite_pl": "—",
     "zh": "笔记本电脑",
     "en": "laptop",
-    "base": "bärbar dator"
+    "base": "bärbar dator",
+    "fr": "ordinateur portable",
+    "de": "Laptop"
   },
   {
     "id": "n_260",
@@ -3528,7 +3649,9 @@
     "definite_pl": "surfplattorna",
     "zh": "平板电脑",
     "en": "tablet",
-    "base": "surfplatta"
+    "base": "surfplatta",
+    "fr": "tablette",
+    "de": "Tablet"
   },
   {
     "id": "n_261",
@@ -3540,7 +3663,9 @@
     "definite_pl": "pennorna",
     "zh": "铅笔/钢笔（泛称）",
     "en": "pencil / pen",
-    "base": "penna"
+    "base": "penna",
+    "fr": "Crayon/stylo",
+    "de": "bleistift / Kugelschreiber"
   },
   {
     "id": "n_262",
@@ -3552,7 +3677,9 @@
     "definite_pl": "kulspetspennorna",
     "zh": "圆珠笔",
     "en": "ballpoint pen",
-    "base": "kulspetspenna"
+    "base": "kulspetspenna",
+    "fr": "stylo à bille",
+    "de": "Kugelschreiber"
   },
   {
     "id": "n_263",
@@ -3564,7 +3691,9 @@
     "definite_pl": "tuschpennorna",
     "zh": "马克笔/彩笔",
     "en": "marker / felt-tip pen",
-    "base": "tuschpenna"
+    "base": "tuschpenna",
+    "fr": "marqueur / feutre",
+    "de": "marker / Filzstift"
   },
   {
     "id": "n_264",
@@ -3576,7 +3705,9 @@
     "definite_pl": "suddgummina",
     "zh": "橡皮擦",
     "en": "eraser / rubber",
-    "base": "suddgummi"
+    "base": "suddgummi",
+    "fr": "Disques à décoller en caoutchouc",
+    "de": "Radierscheiben"
   },
   {
     "id": "n_265",
@@ -3588,7 +3719,9 @@
     "definite_pl": "linjalerna",
     "zh": "直尺",
     "en": "ruler",
-    "base": "linjal"
+    "base": "linjal",
+    "fr": "règle",
+    "de": "Lineal"
   },
   {
     "id": "n_266",
@@ -3600,7 +3733,9 @@
     "definite_pl": "saxarna",
     "zh": "剪刀",
     "en": "scissors",
-    "base": "sax"
+    "base": "sax",
+    "fr": "des ciseaux",
+    "de": "Schere"
   },
   {
     "id": "n_267",
@@ -3612,7 +3747,9 @@
     "definite_pl": "gemen",
     "zh": "回形针",
     "en": "paperclip",
-    "base": "gem"
+    "base": "gem",
+    "fr": "trombone",
+    "de": "Büroklammer"
   },
   {
     "id": "n_268",
@@ -3624,7 +3761,9 @@
     "definite_pl": "häftstiften",
     "zh": "图钉/大头针",
     "en": "thumbtack / drawing pin",
-    "base": "häftstift"
+    "base": "häftstift",
+    "fr": "punaise /épingle à dessin",
+    "de": "reißverschluss /Reißnadel"
   },
   {
     "id": "n_269",
@@ -3636,7 +3775,9 @@
     "definite_pl": "ryggsäckarna",
     "zh": "书包/背包",
     "en": "backpack / schoolbag",
-    "base": "ryggsäck"
+    "base": "ryggsäck",
+    "fr": "sac à dos / cartable",
+    "de": "rucksack / Schultasche"
   },
   {
     "id": "n_270",
@@ -3648,7 +3789,9 @@
     "definite_pl": "schemana",
     "zh": "课程表/时间表",
     "en": "timetable / schedule",
-    "base": "schema"
+    "base": "schema",
+    "fr": "Calendrier horaire",
+    "de": "zeitplan / Schedule"
   },
   {
     "id": "n_271",
@@ -3660,7 +3803,9 @@
     "definite_pl": "lärarna",
     "zh": "老师",
     "en": "teacher",
-    "base": "lärare"
+    "base": "lärare",
+    "fr": "enseignant",
+    "de": "Lehrer*in"
   },
   {
     "id": "n_272",
@@ -3672,7 +3817,9 @@
     "definite_pl": "eleverna",
     "zh": "学生（中小学）",
     "en": "student / pupil",
-    "base": "elev"
+    "base": "elev",
+    "fr": "_8 Étudiant/Élève",
+    "de": "student / Schüler"
   },
   {
     "id": "n_273",
@@ -3684,6 +3831,8 @@
     "definite_pl": "studenterna",
     "zh": "学生（大学）",
     "en": "student (university)",
-    "base": "student"
+    "base": "student",
+    "fr": "Étudiant(e) universitaire",
+    "de": "Student, universität"
   }
 ]
