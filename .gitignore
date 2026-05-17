@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+app/dist/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+*.env
+.env.local
+.env*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*

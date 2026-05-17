@@ -1,0 +1,16 @@
+services:
+  app:
+    build:
+      context: ./app
+      dockerfile: Dockerfile.dev
+    ports:
+      - "5173:5173"
+    volumes:
+      # Live-reload: mount source files into container
+      - ./app/src:/app/src
+      - ./app/index.html:/app/index.html
+      - ./app/vite.config.ts:/app/vite.config.ts
+      # Keep node_modules from the container (don't override with host)
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development

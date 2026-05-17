@@ -1,0 +1,217 @@
+[
+  {
+    "zh": "我",
+    "sv": "jag",
+    "en": "I"
+  },
+  {
+    "zh": "你（单数）",
+    "sv": "du",
+    "en": "you"
+  },
+  {
+    "zh": "他",
+    "sv": "han",
+    "en": "he"
+  },
+  {
+    "zh": "她",
+    "sv": "hon",
+    "en": "she"
+  },
+  {
+    "zh": "它（en词）",
+    "sv": "den",
+    "en": "it"
+  },
+  {
+    "zh": "它（ett词）",
+    "sv": "det",
+    "en": "it"
+  },
+  {
+    "zh": "我们",
+    "sv": "vi",
+    "en": "we"
+  },
+  {
+    "zh": "你们（复数）",
+    "sv": "ni",
+    "en": "you (plural)"
+  },
+  {
+    "zh": "他们/她们/它们",
+    "sv": "de",
+    "en": "they"
+  },
+  {
+    "zh": "jag",
+    "sv": "mig",
+    "en": "me"
+  },
+  {
+    "zh": "du",
+    "sv": "dig",
+    "en": "you"
+  },
+  {
+    "zh": "han",
+    "sv": "honom",
+    "en": "him"
+  },
+  {
+    "zh": "hon",
+    "sv": "henne",
+    "en": "her"
+  },
+  {
+    "zh": "den / det",
+    "sv": "den / det",
+    "en": "it"
+  },
+  {
+    "zh": "vi",
+    "sv": "oss",
+    "en": "us"
+  },
+  {
+    "zh": "ni",
+    "sv": "er",
+    "en": "you"
+  },
+  {
+    "zh": "de",
+    "sv": "dem",
+    "en": "them"
+  },
+  {
+    "zh": "jag",
+    "sv": "mig（同宾格）",
+    "en": "myself"
+  },
+  {
+    "zh": "du",
+    "sv": "dig（同宾格）",
+    "en": "yourself"
+  },
+  {
+    "zh": "han/hon/den/det",
+    "sv": "sig",
+    "en": "himself/herself/itself"
+  },
+  {
+    "zh": "vi",
+    "sv": "oss（同宾格）",
+    "en": "ourselves"
+  },
+  {
+    "zh": "ni",
+    "sv": "er（同宾格）",
+    "en": "yourselves"
+  },
+  {
+    "zh": "通性（utrum）",
+    "sv": "en",
+    "en": "a / an"
+  },
+  {
+    "zh": "中性（neutrum）",
+    "sv": "ett",
+    "en": "a / an"
+  },
+  {
+    "zh": "en词单数",
+    "sv": "词尾加 -en（辅音结尾）或 -n（元音结尾）",
+    "en": "bil → bilen（那辆车）/ dag → dagen（那天）"
+  },
+  {
+    "zh": "ett词单数",
+    "sv": "词尾加 -et（辅音结尾）或 -t（元音结尾）",
+    "en": "hus → huset（那座房子）/ äpple → äpplet（那个苹果）"
+  },
+  {
+    "zh": "通性复数",
+    "sv": "词尾加 -na（多数情况）",
+    "en": "bilar → bilarna（那些车）"
+  },
+  {
+    "zh": "中性复数",
+    "sv": "词尾加 -en 或 -na（视变格组）",
+    "en": "hus → husen（那些房子）"
+  },
+  {
+    "zh": "Jag（我）",
+    "sv": "äter（吃）",
+    "en": "lunch.（午饭）"
+  },
+  {
+    "zh": "Igår（昨天）",
+    "sv": "åt（吃了）",
+    "en": "jag lunch.（我午饭）"
+  },
+  {
+    "zh": "att",
+    "sv": "that（宾语从句）",
+    "en": "that"
+  },
+  {
+    "zh": "som",
+    "sv": "who/which/that（关系从句）",
+    "en": "who / which / that"
+  },
+  {
+    "zh": "när",
+    "sv": "when（时间从句）",
+    "en": "when"
+  },
+  {
+    "zh": "om",
+    "sv": "if / whether",
+    "en": "if / whether"
+  },
+  {
+    "zh": "för att",
+    "sv": "in order to / because（目的/原因）",
+    "en": "in order to / because"
+  },
+  {
+    "zh": "men",
+    "sv": "but（并列对比）",
+    "en": "but"
+  },
+  {
+    "zh": "eller",
+    "sv": "or（并列选择）",
+    "en": "or"
+  },
+  {
+    "zh": "och",
+    "sv": "and（并列连接）",
+    "en": "and"
+  },
+  {
+    "zh": "主句（否定）",
+    "sv": "主语 + 动词 + inte + 其他",
+    "en": "Han kommer inte.（他不来。）"
+  },
+  {
+    "zh": "从句（否定）",
+    "sv": "连接词 + 主语 + inte + 动词 + 其他",
+    "en": "Jag vet att han inte kommer.（我知道他不来。）"
+  },
+  {
+    "zh": "vilken / vilket",
+    "sv": "哪个（en/ett词）",
+    "en": "which"
+  },
+  {
+    "zh": "centralstationen",
+    "sv": "en stationen（定式）",
+    "en": "中央车站"
+  },
+  {
+    "zh": "en byggnad",
+    "sv": "en词",
+    "en": "一座建筑"
+  }
+]

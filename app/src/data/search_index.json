@@ -1,0 +1,682 @@
+[
+  {
+    "chapter": 1,
+    "heading": "1.1 人称代词",
+    "text": "人称代词是句子的主语或宾语，是构建任何句子的第一步。瑞典语的人称代词系统与英语高度相似，比德语和法语都更简单。"
+  },
+  {
+    "chapter": 1,
+    "heading": "① 主格代词（主语位置）",
+    "text": "💡 jag 的 j 发/j/音（类似英语yes的y）。注意小写——瑞典语中 jag 不像英语 I 那样大写。\n\n 💡 den 和 det 都表示\"它\"，选哪个取决于所指名词的genus：en词用den，ett词用det。这是瑞典语特有的区分，英语只有 it。\n\n 💡 de（他们）口语中常发音为\"dom\"，书写仍是 de。"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 宾格代词（宾语位置）",
+    "text": "宾格代词用作动词的直接宾语（接受动作的人或物）。瑞典语的宾格变化极少，比德语和法语简单得多。"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 宾格代词（宾语位置）",
+    "text": "💡 与法语相比，瑞典语宾格代词放在动词之后（与英语相同），而非动词之前（法语：Je te vois → 瑞典语：Jag ser dig）。\n\n ⚠️ 德语有四格变化（ich/mich/mir/meiner），法语有直接宾语/间接宾语区分（me/te/le/lui）。瑞典语简化了这一系统：宾格只有一套形式，无格位区分，无间接宾语代词的单独形式。"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 反身代词",
+    "text": "反身代词用于动作指向主语本身的情况（如\"我洗我自己\"）。瑞典语有一个特别简洁的反身代词：所有第三人称统一用 sig，不区分性别或单复数。"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 反身代词",
+    "text": "💡 sig 是瑞典语特有的第三人称统一反身代词，相当于德语的 sich——法语则需要区分 se / soi。英语没有完全对应的形式，closest是 himself/herself/itself/themselves。"
+  },
+  {
+    "chapter": 1,
+    "heading": "④ 关于\"间接宾语\"",
+    "text": "你在法语中熟悉的间接宾语代词（lui, leur, me, te…）在瑞典语里没有独立的代词形式。间接宾语通常通过介词 till（给）、för（为/对）或 åt（为/替）加普通宾格代词来表达："
+  },
+  {
+    "chapter": 1,
+    "heading": "④ 关于\"间接宾语\"",
+    "text": "Jag ger boken till honom.\n\n （我把书给他。 / I give the book to him.）\n\n → 到 till + 宾格 honom，没有专门的间接宾语代词形式\n\n Hon berättar det för mig.\n\n （她告诉我这件事。 / She tells me about it.）\n\n → för + 宾格 mig，对应法语 me dit\n\n 💡 部分动词可以直接跟双宾语而不用介词：Jag ger dig boken.（我给你书。）—— 此时 dig 是间接宾语，boken 是直接宾语，语序与英语相同。"
+  },
+  {
+    "chapter": 1,
+    "heading": "1.2 冠词系统",
+    "text": "冠词是瑞典语中与英/德/法差异最大的一个点。理解冠词系统，必须先掌握一个核心概念：genus（词性）。"
+  },
+  {
+    "chapter": 1,
+    "heading": "① Genus：通性（en）与中性（ett）",
+    "text": "瑞典语名词分为两类——通性（utrum）和中性（neutrum）——分别以 en 和 ett 作为不定冠词标记。这不同于法语/德语的阴/阳性，也没有法语那样可从词尾预测性别的规律，需要逐词记忆。不过有一些统计规律可以参考："
+  },
+  {
+    "chapter": 1,
+    "heading": "① Genus：通性（en）与中性（ett）",
+    "text": "- 约 75–80% 的瑞典语名词是 en 词（通性）"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 不定冠词（a/an 的对应）",
+    "text": "不定冠词用于泛指、第一次提及，或说\"某一个\"的情况，与英语 a/an 功能相同。"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 不定冠词（a/an 的对应）",
+    "text": "Jag ser en hund.\n\n （我看见一只狗。 / I see a dog.）\n\n → hund 是 en 词，用 en\n\n Hon köper ett äpple.\n\n （她买了一个苹果。 / She buys an apple.）\n\n → äpple 是 ett 词，用 ett\n\n Vi har bilar.\n\n （我们有车。（泛指多辆） / We have cars.）\n\n → 复数不用冠词，与英语相同\n\n 💡 与德语相比，瑞典语不定冠词不随格位变化（德语：ein / einen / einem / eines）。瑞典语永远只是 en 或 ett，大幅简化。"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 定冠词（the 的对应）——后缀形式",
+    "text": "这是瑞典语最独特的地方：定冠词不是独立的词（不像英语 the、法语 le/la、德语 der/die/das），而是作为后缀附着在名词末尾。"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 定冠词（the 的对应）——后缀形式",
+    "text": "Bilen är röd.\n\n （那辆车是红色的。 / The car is red.）\n\n → bil（en词）+ -en → bilen\n\n Huset är stort.\n\n （那座房子很大。 / The house is big.）\n\n → hus（ett词）+ -et → huset\n\n Barnen leker.\n\n （孩子们在玩耍。 / The children are playing.）\n\n → barn（ett词）复数 barn + -en → barnen\n\n 💡 英语说 \"the car\"，瑞典语说 \"bil-en\"——定冠词的信息被\"焊\"在名词上了。这对初学者是最需要适"
+  },
+  {
+    "chapter": 1,
+    "heading": "1.3 语序规则",
+    "text": "语序是瑞典语语法的核心骨架之一。掌握几条主要规则，就能造出结构正确的句子。"
+  },
+  {
+    "chapter": 1,
+    "heading": "① V2 规则：动词永远在第二位",
+    "text": "这是瑞典语（和德语）最重要的语序规则：在主句中，动词必须是句子的第二个成分（第二位），无论第一位是什么。英语没有这个规则；德语有。"
+  },
+  {
+    "chapter": 1,
+    "heading": "① V2 规则：动词永远在第二位",
+    "text": "Jag äter lunch.\n\n （我吃午饭。 / I eat lunch.）\n\n → 正常语序：主语-动词-宾语\n\n Igår åt jag lunch.\n\n （昨天我吃了午饭。 / Yesterday I ate lunch.）\n\n → Igår（时间副词）提前→主谓倒装，动词åt在第二位\n\n Nu arbetar hon hemma.\n\n （现在她在家工作。 / Now she works at home.）\n\n → Nu提前→倒装，arbetar在第二位\n\n 💡 英语可以说 \"Yesterday I ate lunch\"，主语依然在动词前，无需倒装。瑞典语和德语一样，一旦有其他成分提"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 一般疑问句：动词提前到第一位",
+    "text": "构成一般疑问句（是/否问题）时，将动词移到句首，主语紧随其后。与英语借助 do/does 不同，瑞典语直接将动词提前，更接近德语。"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 一般疑问句：动词提前到第一位",
+    "text": "Äter du lunch?\n\n （你吃午饭吗？ / Do you eat lunch?）\n\n → 动词 äter 移至句首，无需助动词（对比英语 do you eat）\n\n Bor hon i Stockholm?\n\n （她住在斯德哥尔摩吗？ / Does she live in Stockholm?）\n\n → 动词 bor 提前\n\n Har ni en bil?\n\n （你们有车吗？ / Do you have a car?）\n\n → 动词 har 提前\n\n 💡 法语也有类似的倒装疑问句形式（Parlez-vous français?），但法语口语常用 est-ce que 避免倒装。瑞典语"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 特殊疑问句：疑问词 + 动词 + 主语",
+    "text": "带疑问词的问句（what, where, when…）结构为：疑问词（第一位）+ 动词（第二位）+ 主语，之后接其余成分。V2规则在此依然适用。"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 特殊疑问句：疑问词 + 动词 + 主语",
+    "text": "Var bor du?\n\n （你住在哪里？ / Where do you live?）\n\n Vad äter han?\n\n （他在吃什么？ / What is he eating?）\n\n När kommer tåget?\n\n （火车什么时候来？ / When does the train arrive?）"
+  },
+  {
+    "chapter": 1,
+    "heading": "④ 否定词 inte 的位置",
+    "text": "否定词 inte（不，相当于英语 not）在主句中放在动词之后，主语之后。"
+  },
+  {
+    "chapter": 1,
+    "heading": "④ 否定词 inte 的位置",
+    "text": "Jag äter inte lunch.\n\n （我不吃午饭。 / I do not eat lunch.）\n\n → inte 紧跟在动词 äter 之后\n\n Hon bor inte i Stockholm.\n\n （她不住在斯德哥尔摩。 / She doesn't live in Stockholm.）\n\n Vi har inte en bil.\n\n （我们没有车。 / We don't have a car.）\n\n ⚠️ 从句中否定词的位置不同！在从句里，inte 放在动词之前。这是高频错误点，详见 1.4 节。"
+  },
+  {
+    "chapter": 1,
+    "heading": "1.4 从句与复合句",
+    "text": "瑞典语的复合句由一个主句加上一个或多个从句构成。从句由连接词（subjunktion）引导，语序规则与主句有一个关键区别。"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 从句的关键语序规则：inte 前移",
+    "text": "这是主句和从句的最重要区别，也是初学者最容易出错的地方："
+  },
+  {
+    "chapter": 1,
+    "heading": "② 从句的关键语序规则：inte 前移",
+    "text": "- 主句：动词 + inte（否定词在动词后）"
+  },
+  {
+    "chapter": 1,
+    "heading": "② 从句的关键语序规则：inte 前移",
+    "text": "- 从句：inte + 动词（否定词在动词前）"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 关系从句（som）",
+    "text": "som 用于引导关系从句，相当于英语的 who / which / that，指代之前提到的名词。与英语不同，瑞典语 som 不能省略。"
+  },
+  {
+    "chapter": 1,
+    "heading": "③ 关系从句（som）",
+    "text": "Det är boken som jag läste.\n\n （这就是我读过的那本书。 / That's the book that I read.）\n\n → som 不可省略，英语中 that 可省略\n\n Mannen som bor bredvid oss är snäll.\n\n （住在我们旁边的男人很友善。 / The man who lives next to us is kind.）\n\n 💡 英语中可以说 \"the book I read\"（省略 that），瑞典语必须保留 som：\"boken som jag läste\"。"
+  },
+  {
+    "chapter": 1,
+    "heading": "1.5 疑问词",
+    "text": "以下是瑞典语最常用的疑问词，结构均为：疑问词 + 动词 + 主语（V2规则，见1.3）。"
+  },
+  {
+    "chapter": 1,
+    "heading": "1.5 疑问词",
+    "text": "💡 var 和 vart 的区分是瑞典语特有的——var 问静态位置（在哪里），vart 问动态方向（去哪里）。英语的 where 涵盖两者，但瑞典语必须区分：Var är du?（你在哪里？）vs. Vart åker du?（你去哪里？）\n\n 💡 vilken/vilket 需与名词的 genus 一致：vilken bil（en词）/ vilket hus（ett词）。复数统一用 vilka：vilka böcker（哪些书）。"
+  },
+  {
+    "chapter": 1,
+    "heading": "常用疑问句型",
+    "text": "Hur heter du?\n\n （你叫什么名字？ / What is your name?（直译：你叫什么？））\n\n Var kommer du ifrån?\n\n （你从哪里来？ / Where are you from?）\n\n Hur gammal är du?\n\n （你多大了？ / How old are you?）\n\n Vad kostar det?\n\n （这个多少钱？ / How much does this cost?）\n\n Varför är det så dyrt?\n\n （为什么这么贵？ / Why is it so expensive?）"
+  },
+  {
+    "chapter": 1,
+    "heading": "📖 综合短文：一段日常对话",
+    "text": "体裁：日常口语对话 · 场景：问路 · 难度：A1–A2"
+  },
+  {
+    "chapter": 1,
+    "heading": "📖 综合短文：一段日常对话",
+    "text": "本篇对话综合运用本章所学的人称代词、冠词、V2语序、疑问词和从句结构，场景真实、句式典型。"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.1 动词分组概览",
+    "text": "瑞典语规则动词按过去时的构成方式分为四组（Group 1–4）。掌握分组规律，就能推断大多数动词的所有时态形式，无需逐一死记。每组的核心特征是其不定式（infinitiv）词尾和过去时（preteritum）变化方式。"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.1 动词分组概览",
+    "text": "Group 1 是最大的一组，也是最规则的——如果你遇到一个不认识的动词，猜它是 Group 1 的概率最高。新造词（借词）通常也归入 Group 1：googla → googlar / googlade。\n\n Group 4（强变化动词）类似英语的不规则动词（write/wrote）和德语的强变化动词（schreiben/schrieb），靠元音变换表示时态，需要单独记忆。\n\n Group 2a 的过去时看似是\"词根 + -de\"，但实际词形因词根结尾而略有变化（如 läsa → läste，而非 \\läsde）。这些变体在2.3节过去时中详细说明。"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.2 现在时（Presens）",
+    "text": "现在时用于描述当前状态、习惯性动作、以及（在口语中）表达近期将来的计划。构成规则非常简单：不定式词尾 -a 去掉后，加上现在时后缀。"
+  },
+  {
+    "chapter": 2,
+    "heading": "② 用法",
+    "text": "- 当前正在发生的动作（瑞典语无独立进行时，现在时兼任）"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.3 过去时（Preteritum）",
+    "text": "过去时用于叙述已完成的动作或过去的状态，是讲故事、描述经历时最常用的时态。相当于英语的简单过去时（I ate）和部分法语的复合过去时（j'ai mangé）用法。"
+  },
+  {
+    "chapter": 2,
+    "heading": "① 规则动词过去时构成",
+    "text": "💡 \\ köpa（买）过去时是 köpte，不是 \\köpade——属于 Group 2a 而非 Group 1，需特别注意。\\\\ 词根以浊辅音（d/g/v/等）结尾时用 -de；以清辅音（t/k/p/s等）结尾时用 -te。"
+  },
+  {
+    "chapter": 2,
+    "heading": "② Group 4（强变化）过去时——元音变换",
+    "text": "强变化动词通过词根元音变换表达过去时，规律类似英语（sing/sang, write/wrote）和德语（schreiben/schrieb）。以下是最常用的一批："
+  },
+  {
+    "chapter": 2,
+    "heading": "③ 用法",
+    "text": "Igår åt jag frukost klockan sju.\n\n （昨天我七点吃了早饭。 / Yesterday I ate breakfast at seven.）\n\n → 叙述过去具体事件\n\n Hon bodde i Malmö i tio år.\n\n （她在马尔默住了十年。 / She lived in Malmö for ten years.）\n\n → 过去持续状态\n\n Barnen sjöng och dansade.\n\n （孩子们唱歌跳舞。 / The children sang and danced.）\n\n → 过去发生的动作，强变化动词\n\n 💡 法语有复合过去时（passé"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.4 完成时（Perfekt）",
+    "text": "完成时表达\"到目前为止已经发生\"的动作，强调与现在的关联，而非某个过去的具体时间点。结构与英语现在完成时完全一致：har（have的对应）+ 动词的supinum形式。"
+  },
+  {
+    "chapter": 2,
+    "heading": "① 构成：har + supinum",
+    "text": "Supinum 是专门用于完成时的动词形式，不同于过去时。各组的 supinum 构成如下："
+  },
+  {
+    "chapter": 2,
+    "heading": "② 用法：与 preteritum 的区别",
+    "text": "- Perfekt：强调结果或与现在的关联（已经...），不指明具体过去时间"
+  },
+  {
+    "chapter": 2,
+    "heading": "② 用法：与 preteritum 的区别",
+    "text": "- Preteritum：叙述某个过去时间点发生的事，常与 igår（昨天）、i förra veckan（上周）等时间副词连用"
+  },
+  {
+    "chapter": 2,
+    "heading": "② 用法：与 preteritum 的区别",
+    "text": "Har du sett den filmen?\n\n （你看过那部电影吗？ / Have you seen that film?）\n\n → 经历询问，不指定时间\n\n Jag har just kommit hem.\n\n （我刚刚到家。 / I have just arrived home.）\n\n → just（刚刚）常与perfekt连用\n\n Vi har bott här i fem år.\n\n （我们已经在这里住了五年了。 / We have lived here for five years.）\n\n → 持续到现在的状态\n\n 💡 这个区分与英语的 simple past vs. prese"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.5 将来时表达",
+    "text": "瑞典语没有独立的将来时态词尾，而是用三种常见方式表达将来，各有侧重："
+  },
+  {
+    "chapter": 2,
+    "heading": "2.5 将来时表达",
+    "text": "Jag ska köpa en ny cykel.\n\n （我要买一辆新自行车。 / I'm going to buy a new bike.）\n\n → ska = 有意图的将来计划\n\n Det kommer att bli kallt i kväll.\n\n （今晚将会很冷。 / It will be cold tonight.）\n\n → kommer att = 客观预测，无主观意图\n\n Jag tänker inte gå dit.\n\n （我不打算去那里。 / I'm not planning to go there.）\n\n → tänker + inte = 否定打算\n\n 💡 ska 和 "
+  },
+  {
+    "chapter": 2,
+    "heading": "2.6 情态动词（Modala hjälpverb）",
+    "text": "情态动词用于表达能力、许可、义务、可能性和意愿，后接动词不定式（无需 att）。瑞典语情态动词的现在时形式不规则，但过去时相对规律。"
+  },
+  {
+    "chapter": 2,
+    "heading": "① 情态动词后不加 att",
+    "text": "瑞典语情态动词后直接跟动词不定式，不需要 att（相当于英语的 to），这与德语相同："
+  },
+  {
+    "chapter": 2,
+    "heading": "① 情态动词后不加 att",
+    "text": "Jag vill äta pizza.\n\n （我想吃披萨。 / I want to eat pizza.）\n\n → vill 后直接跟 äta，无需 att（英语需要 to eat）\n\n Hon kan inte komma idag.\n\n （她今天来不了。 / She can't come today.）\n\n → kan inte 后接 komma，否定词 inte 在情态动词后\n\n ⚠️ att 的规则：情态动词后不用 att，但其他动词（如 vilja, hoppas, försöka 作为实意动词时）后可能需要 att + 不定式。具体情况在第四章动词大类中说明。"
+  },
+  {
+    "chapter": 2,
+    "heading": "② skulle——礼貌、假设与间接引语",
+    "text": "skulle（ska 的过去时）在现代瑞典语中有多种用法，远超\"过去意图\"："
+  },
+  {
+    "chapter": 2,
+    "heading": "② skulle——礼貌、假设与间接引语",
+    "text": "- 礼貌请求（相当于英语 would / could）"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.7 核心不规则动词",
+    "text": "以下动词是瑞典语使用频率最高的一批，变化形式不规则，必须逐一记忆。每个动词给出：不定式 / 现在时 / 过去时 / supinum（完成时用）四种核心形式。"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.7 核心不规则动词",
+    "text": "瑞典语中最重要的动词，所有人称现在时统一用 är，比英语（am/is/are）和德语（bin/bist/ist/sind…）都简单。"
+  },
+  {
+    "chapter": 2,
+    "heading": "2.8 形容词转副词规则",
+    "text": "副词修饰动词、形容词或整个句子，表达方式、程度或时间等。瑞典语中由形容词派生副词的方式非常规律，主要有三种模式："
+  },
+  {
+    "chapter": 2,
+    "heading": "2.8 形容词转副词规则",
+    "text": "Han springer snabbt.\n\n （他跑得很快。 / He runs fast.）\n\n → snabb → snabbt（-t 副词）\n\n Hon sjunger vackert.\n\n （她唱得很好听。 / She sings beautifully.）\n\n → vacker → vackert（形容词去-r加-t）\n\n Tala långsamt, tack!\n\n （请说慢一点！ / Please speak slowly!）\n\n → långsam → långsamt\n\n Naturligtvis kan jag hjälpa dig.\n\n （当然，我可以帮你。 / Of c"
+  },
+  {
+    "chapter": 2,
+    "heading": "综合短文：一篇日记",
+    "text": "体裁：第一人称日记 · 场景：描述昨天、今天与明天的计划 · 难度：A2"
+  },
+  {
+    "chapter": 2,
+    "heading": "综合短文：一篇日记",
+    "text": "本篇日记综合运用本章三种时态（preteritum / presens / ska将来），以及情态动词和核心不规则动词，展示时态如何在真实叙述中自然切换。"
+  },
+  {
+    "chapter": 3,
+    "heading": "3.1 形容词变格规则",
+    "text": "瑞典语形容词的形式取决于它所修饰名词的三个属性：genus（en/ett）、数（单/复数）以及定/不定式。以下是完整的变格模式："
+  },
+  {
+    "chapter": 3,
+    "heading": "① 四种核心形式总览",
+    "text": "💡 记忆诀窍：只有 ett词不定单数 需要加 -t；其余所有需要变化的情况（复数、定式）统一加 -a。两个规则覆盖了绝大多数情况。\n\n 💡 与德语对比：德语形容词变格需要考虑四个格（主/宾/与/属）加三个性（阳/阴/中）共12种组合。瑞典语只有上述四种形式，大幅简化。英语形容词完全不变。"
+  },
+  {
+    "chapter": 3,
+    "heading": "② 完整变格示例（stor / liten / gammal）",
+    "text": "⚠️ liten（小）是最重要的不规则形容词：ett词形式是 litet（不是 \\litet），复数是 sma（完全不规则），定式是 lilla（单数）或 sma（复数）。必须单独记忆。\n\n ⚠️ gammal（老）的 ett词形式是 gammalt，复数是 gamla——注意双写 l 消失。类似的形容词（词根以 -al/-el/-en/-er 结尾）在加 -t/-a 时常有拼写调整。"
+  },
+  {
+    "chapter": 3,
+    "heading": "③ 定式结构：den/det/de + 定式形容词 + 定式名词",
+    "text": "当名词前有形容词时，需要同时使用前置定冠词（den/det/de）和后置定冠词后缀，形容词本身使用定式（-a形式）："
+  },
+  {
+    "chapter": 3,
+    "heading": "③ 定式结构：den/det/de + 定式形容词 + 定式名词",
+    "text": "Den stora bilen ar rod.\n\n (那辆大车是红色的。 / The big car is red.)\n\n -\\ den + stora（定式-a）+ bilen（定式后缀-en）\n\n Jag gillar det gamla huset.\n\n (我喜欢那座旧房子。 / I like the old house.)\n\n -\\ det + gamla（定式-a）+ huset（定式后缀-et）\n\n De sma barnen sover.\n\n (那些小孩子们在睡觉。 / The small children are sleeping.)\n\n -\\ de + sma（liten 不"
+  },
+  {
+    "chapter": 3,
+    "heading": "④ 谓语形容词（系动词后的形容词）",
+    "text": "形容词作谓语（放在 vara/bli 等系动词后）时，规则与不定式修饰名词相同——按名词的 genus 和数变化，但不加定式 -a："
+  },
+  {
+    "chapter": 3,
+    "heading": "④ 谓语形容词（系动词后的形容词）",
+    "text": "Bilen ar stor.\n\n (车很大。 / The car is big.)\n\n -\\ bilen 是 en词，谓语形容词用基本形 stor\n\n Huset ar stort.\n\n (房子很大。 / The house is big.)\n\n -\\ huset 是 ett词，谓语形容词加 -t: stort\n\n Bilarna ar stora.\n\n (这些车很大。 / The cars are big.)\n\n -\\ 复数谓语形容词加 -a: stora\n\n 💡 简单规则：谓语位置的形容词只需判断 en词/ett词/复数，用对应的基本形/中性形/复数形即可，不需要定式 -a。"
+  },
+  {
+    "chapter": 3,
+    "heading": "3.2 颜色词汇",
+    "text": "颜色形容词遵循上述变格规则。下表给出每个颜色词的四种核心形式，以及作为名词使用时的形式（\"红色\"这个颜色本身）："
+  },
+  {
+    "chapter": 3,
+    "heading": "3.2 颜色词汇",
+    "text": "借自法语/英语的颜色词（orange, lila, rosa, beige, turkos）在瑞典语中通常不变格——所有形式相同。这类外来词是固定形式的常见规律。\n\n bla（蓝）的复数/定式形式也是 bla（不是 \\blaa），但 ett词形式是 blatt。gra（灰）同理。这些以 -a 结尾的颜色词复数不再加 -a。"
+  },
+  {
+    "chapter": 3,
+    "heading": "颜色例句",
+    "text": "Hon har en rod jacka och bla byxor.\n\n (她穿一件红色外套和蓝色裤子。 / She has a red jacket and blue trousers.)\n\n -\\ rod (en词), bla (复数不变)\n\n Det grona huset ar vackert.\n\n (那座绿色的房子很漂亮。 / The green house is beautiful.)\n\n -\\ det grona huset：定式结构，det + grona + huset\n\n Vad heter den fargen pa svenska?\n\n (那种颜色瑞典语怎么说？ / "
+  },
+  {
+    "chapter": 3,
+    "heading": "3.3 情绪与感受词汇",
+    "text": "描述情绪和感受的形容词在日常对话中极为常用。以下按正面/负面/中性分组列出，并标注每个词的变格特点："
+  },
+  {
+    "chapter": 3,
+    "heading": "情绪表达句式",
+    "text": "- vara + 情绪形容词（最直接）：Jag ar glad.（我很高兴。）"
+  },
+  {
+    "chapter": 3,
+    "heading": "情绪表达句式",
+    "text": "- kanna sig + 情绪形容词（感觉/感到）：Jag kanner mig trott.（我感觉很累。）"
+  },
+  {
+    "chapter": 3,
+    "heading": "3.4 喜好与偏好表达",
+    "text": "表达喜好是日常对话的核心功能之一。瑞典语有几个层次的喜好动词，从强烈到一般："
+  },
+  {
+    "chapter": 3,
+    "heading": "喜好句型详解",
+    "text": "tycka om 是最常用的喜好动词，注意它是可分动词（tycka ... om），在句中有时被其他成分分隔："
+  },
+  {
+    "chapter": 3,
+    "heading": "喜好句型详解",
+    "text": "Jag tycker om musik.\n\n (我喜欢音乐。 / I like music.)\n\n -\\ tycka om + 名词（直接宾语）\n\n Tycker du om att laga mat?\n\n (你喜欢做饭吗？ / Do you like cooking?)\n\n -\\ tycka om + att + 不定式：喜欢做某事\n\n Jag alskare att resa.\n\n (我热爱旅行。 / I love travelling.)\n\n -\\ alska + att + 不定式\n\n Han foredrager te framfor kaffe.\n\n (他比起咖啡更喜欢茶。 / H"
+  },
+  {
+    "chapter": 3,
+    "heading": "程度副词",
+    "text": "以下程度副词与形容词/喜好动词搭配，表达不同强度："
+  },
+  {
+    "chapter": 3,
+    "heading": "3.5 评价与描述词汇",
+    "text": "以下按语义对立组织最常用的描述性形容词，每对给出基本形（en词）。变格规则见 3.1 节。"
+  },
+  {
+    "chapter": 3,
+    "heading": "3.6 比较级与最高级",
+    "text": "瑞典语的比较级和最高级有规则变化和不规则变化两套系统，规律上与英语高度对应（-er/-est 或 more/most）。"
+  },
+  {
+    "chapter": 3,
+    "heading": "① 规则变化：-are / -ast",
+    "text": "大多数形容词通过加后缀构成比较级和最高级："
+  },
+  {
+    "chapter": 3,
+    "heading": "① 规则变化：-are / -ast",
+    "text": "💡 单音节形容词（stor, ung, lang 等）常有元音变换（umlaut）：stor→storre, ung→yngre, gammal→aldre——类似德语比较级的元音变音规律（alt→alter vs. alter）。"
+  },
+  {
+    "chapter": 3,
+    "heading": "③ 比较句型",
+    "text": "- A ar + 比较级 + an B（A比B更...）"
+  },
+  {
+    "chapter": 3,
+    "heading": "③ 比较句型",
+    "text": "- A ar lika + 原级 + som B（A和B一样...）"
+  },
+  {
+    "chapter": 3,
+    "heading": "综合短文：一篇人物介绍",
+    "text": "体裁：第三人称描述性短文 · 场景：介绍一位朋友 · 难度：A2"
+  },
+  {
+    "chapter": 3,
+    "heading": "综合短文：一篇人物介绍",
+    "text": "本篇短文综合运用本章所学的形容词变格（谓语/定语位置）、颜色词汇、情绪词汇、喜好表达和比较级，在自然的人物介绍语境中展示形容词的多种用法。"
+  },
+  {
+    "chapter": 4,
+    "heading": "4.1 爱好类动词 — 运动、乐器与休闲",
+    "text": "表达爱好时，动词选择取决于活动类型。瑞典语有几个重要的搭配规则，与英语的用法存在系统性差异，需要重点掌握。"
+  },
+  {
+    "chapter": 4,
+    "heading": "① 核心搭配规则：spela / sjunga / lyssna / titta / se",
+    "text": "以下四个动词在爱好场景中使用频率极高，搭配各有特点："
+  },
+  {
+    "chapter": 4,
+    "heading": "① 核心搭配规则：spela / sjunga / lyssna / titta / se",
+    "text": "💡 spela 覆盖乐器和球类运动两个领域，相当于英语的 play。注意：乐器前不加冠词（spela gitarr，不是 \\spela en gitarr），但球类运动前也不加冠词（spela fotboll）。\n\n 💡 titta pa 和 se/se pa 的区别：titta pa 更正式，se pa 更口语，两者可互换用于看电视/电影。lyssna pa 则专门用于听，不可与 titta 混用。"
+  },
+  {
+    "chapter": 4,
+    "heading": "② 运动与体育活动动词",
+    "text": "💡 aka（乘坐/滑行）是一个极多用途的动词：aka bil（开车/坐车）/ aka buss（坐公交）/ aka skidor（滑雪）/ aka skridskor（溜冰）。它本身是 G1：akar / akte / akit。"
+  },
+  {
+    "chapter": 4,
+    "heading": "③ 乐器演奏",
+    "text": "演奏乐器统一用 spela + 乐器名词（无冠词）："
+  },
+  {
+    "chapter": 4,
+    "heading": "④ 其他休闲爱好动词",
+    "text": "Jag spelar gitarr och sjunger i en kor.\n\n (我弹吉他，也在合唱团唱歌。 / I play guitar and sing in a choir.)\n\n Hon tycker om att cykla och vandra pa helgerna.\n\n (她喜欢在周末骑车和远足。 / She likes cycling and hiking at weekends.)\n\n -\\ tycker om + att + 不定式：喜欢做某事\n\n Vi tittade pa en bra film igar kvallar.\n\n (我们昨晚看了一部好电影。 / W"
+  },
+  {
+    "chapter": 4,
+    "heading": "4.2 基本需求类动词 — 吃、喝、睡、住、买",
+    "text": "这类动词覆盖人的基本生理和生活需求，是日常对话中最高频的动词群之一。许多动词有重要的搭配介词或固定短语，需要一起记忆。"
+  },
+  {
+    "chapter": 4,
+    "heading": "① 饮食类",
+    "text": "💡 ata 是不规则动词，来自第二章：ata / ater / at / atit。注意 smaka 有两个意思：主动品尝（Kan jag smaka?——我可以尝尝吗？）和描述味道（Det smakar gott——这很好吃）。"
+  },
+  {
+    "chapter": 4,
+    "heading": "③ 睡眠与休息类",
+    "text": "💡 sova 和 somna / vakna 的区别很重要：sova = 睡觉（状态），somna = 睡着（动作：进入睡眠），vakna = 醒来（动作：离开睡眠）。类比英语：sleep vs. fall asleep vs. wake up。\n\n Jag sover vanligtvis atta timmar.\n\n (我通常睡八个小时。 / I usually sleep eight hours.)\n\n -\\ sova = 睡觉状态\n\n Jag somnade direkt nar jag lade mig.\n\n (我一躺下就睡着了。 / I fell asleep immediatel"
+  },
+  {
+    "chapter": 4,
+    "heading": "⑤ 购物与金钱类",
+    "text": "Hur mycket kostar den har jackan?\n\n (这件夹克多少钱？ / How much does this jacket cost?)\n\n -\\ kosta 的主语是商品本身，不是人\n\n Jag kopte mjolk och brod i affaren.\n\n (我在商店买了牛奶和面包。 / I bought milk and bread at the shop.)\n\n -\\ kopte = G2a 过去时\n\n Vi ska flytta till ett storre lagenhet nasta manad.\n\n (我们下个月要搬到一套更大的公寓。 / We a"
+  },
+  {
+    "chapter": 4,
+    "heading": "4.3 行动与移动类动词",
+    "text": "移动动词在瑞典语中有细致的分类，尤其是步行（ga）、乘坐交通（aka）、跑（springa）等动词，以及方向性小品词（in/ut/upp/ner/hem 等）的搭配，构成了描述移动的完整系统。"
+  },
+  {
+    "chapter": 4,
+    "heading": "① ga vs. aka vs. kora — 三种核心移动方式",
+    "text": "ga 和 aka 的区别是瑞典语学习者最需要掌握的一对。英语的 go 可以涵盖两者（go by bus = aka buss；go on foot = ga），但瑞典语必须区分。如果你坐地铁去某地，一定用 aka，不是 ga。"
+  },
+  {
+    "chapter": 4,
+    "heading": "③ 方向性小品词 — 赋予移动方向",
+    "text": "瑞典语中许多移动动词可以搭配方向性小品词（partiklar），构成方向明确的复合动词结构。小品词类似英语的 up/down/in/out，但位置规则略有不同："
+  },
+  {
+    "chapter": 4,
+    "heading": "③ 方向性小品词 — 赋予移动方向",
+    "text": "Ga in! Dorren ar oppet.\n\n (进来吧！门是开着的。 / Come in! The door is open.)\n\n -\\ ga in：向内移动\n\n Han sprang ut ur huset.\n\n (他跑出了房子。 / He ran out of the house.)\n\n -\\ springa + ut + ur（out of）\n\n Nar kommer du hem?\n\n (你什么时候回家？ / When are you coming home?)\n\n -\\ komma hem = 到家\n\n Vi gick over bron till andra sidan.\n"
+  },
+  {
+    "chapter": 4,
+    "heading": "4.4 感知与认知类动词",
+    "text": "感知动词（听、看、闻、感觉）和认知动词（知道、认为、理解、记住）是表达内心活动的重要工具，许多在搭配和用法上与英语有细微但重要的差别。"
+  },
+  {
+    "chapter": 4,
+    "heading": "感知动词的关键区分",
+    "text": "瑞典语中，听和看各有两个动词，用法区别与英语 hear/listen 和 see/look/watch 高度对应："
+  },
+  {
+    "chapter": 4,
+    "heading": "感知动词的关键区分",
+    "text": "💡 这组区分与英语完全平行：see/hear = 被动感知，look/watch/listen = 主动感知。法语也有类似区分：voir/voir vs. regarder；entendre vs. ecouter。"
+  },
+  {
+    "chapter": 4,
+    "heading": "认知动词关键辨析：tycka / tro / mena",
+    "text": "这三个动词都可以译为\"认为\"，但用法有重要区别："
+  },
+  {
+    "chapter": 4,
+    "heading": "认知动词关键辨析：tycka / tro / mena",
+    "text": "Jag tycker att det ar for varmt har.\n\n (我觉得这里太热了。 / I think it's too hot here.)\n\n -\\ tycka att = 主观感受性判断\n\n Jag tror att det ska regna imorgon.\n\n (我觉得明天会下雨。 / I think it will rain tomorrow.)\n\n -\\ tro att = 基于推测的判断，不确定\n\n Vad menar du nar du sager det?\n\n (你说这话是什么意思？ / What do you mean when you say that"
+  },
+  {
+    "chapter": 4,
+    "heading": "③ 表达意见的固定句式",
+    "text": "以下是日常对话中表达意见、赞同、反对的常用句式："
+  },
+  {
+    "chapter": 4,
+    "heading": "📖 综合短文：一篇周末活动短文",
+    "text": "体裁：口语化叙述短文 · 场景：描述上周末的活动 · 难度：A2（时态综合）"
+  },
+  {
+    "chapter": 4,
+    "heading": "📖 综合短文：一篇周末活动短文",
+    "text": "本篇短文综合运用本章四类动词（爱好 / 需求 / 行动 / 感知认知），以 preteritum 为主要时态叙述上周末，并自然穿插 perfekt 和 presens，体现时态在真实叙述中的配合方式。"
+  },
+  {
+    "chapter": 5,
+    "heading": "5.1 静态位置介词 — 描述事物在哪里",
+    "text": "静态位置介词回答 var?（在哪里）的问题。i 和 pa 是核心，两者的选择规则是初学者最大的挑战之一。"
+  },
+  {
+    "chapter": 5,
+    "heading": "② i vs. pa — 核心难点对比",
+    "text": "Boken ligger pa bordet bredvid lampan.\n\n (书放在桌子上台灯旁边。 / The book is on the table next to the lamp.)\n\n -\\ pa bordet（表面）+ bredvid lampan（旁边）\n\n Hon arbetar pa ett sjukhus i Goteborg.\n\n (她在哥德堡一家医院工作。 / She works at a hospital in Gothenburg.)\n\n -\\ pa sjukhuset（功能场所）+ i Goteborg（城市用 i）\n\n Vi satt i bilen o"
+  },
+  {
+    "chapter": 5,
+    "heading": "5.2 动态方向介词 — 描述去哪里、从哪来",
+    "text": "动态方向介词回答 vart?（去哪里）和 varifraan?（从哪来）的问题，配合移动动词使用。位置介词（i/pa）和方向介词（till/fran）不能混用。"
+  },
+  {
+    "chapter": 5,
+    "heading": "5.2 动态方向介词 — 描述去哪里、从哪来",
+    "text": "Jag gar till affaren — hon ar i affaren.\n\n (我去商店——她在商店里。 / I'm going to the shop — she is in the shop.)\n\n -\\ till（方向）vs. i（位置），动词也不同：ga vs. vara\n\n Han sprang ut ur byggnaden och mot parken.\n\n (他从楼里跑出来，向着公园跑去。 / He ran out of the building and towards the park.)\n\n -\\ ut ur（向外）+ mot（朝向，不一定到达）\n\n Ga geno"
+  },
+  {
+    "chapter": 5,
+    "heading": "5.3 抽象关系介词",
+    "text": "抽象关系介词不描述物理位置，而是表达参与关系、话题、方式、原因等。搭配往往需要整体记忆。"
+  },
+  {
+    "chapter": 5,
+    "heading": "高频形容词+介词固定搭配",
+    "text": "Jag ar intresserad av historia och bra pa matematik.\n\n (我对历史感兴趣，数学也不错。 / I am interested in history and good at maths.)\n\n -\\ intresserad av + bra pa：两个固定搭配\n\n Hon ar van vid att arbeta sena kvaller.\n\n (她习惯于工作到很晚。 / She is used to working late evenings.)\n\n -\\ van vid + att + 不定式\n\n Trots allt tycker ja"
+  },
+  {
+    "chapter": 5,
+    "heading": "5.4 时间介词 — 何时发生",
+    "text": "时间介词的选择由时间单位类型决定，规律比英语 in/on/at 更清晰，但 i 和 om 用于季节时有重要区分。"
+  },
+  {
+    "chapter": 5,
+    "heading": "i vs. om 用于季节——重要区分",
+    "text": "- i + 季节：指某一具体年份的那个季节（今年/去年/明年的夏天等）"
+  },
+  {
+    "chapter": 5,
+    "heading": "i vs. om 用于季节——重要区分",
+    "text": "- om + 季节：泛指每到那个季节的规律性描述"
+  },
+  {
+    "chapter": 5,
+    "heading": "i vs. om 用于季节——重要区分",
+    "text": "Jag var i Stockholm i somras.\n\n (我今年夏天在斯德哥尔摩。 / I was in Stockholm this past summer.)\n\n -\\ i somras = 今年夏天（具体的那个夏天）\n\n Om sommaren simmar vi i havet.\n\n (每到夏天我们都在大海里游泳。 / In summer we swim in the sea.)\n\n -\\ om sommaren = 泛指规律性（每个夏天）\n\n Det sker om tva veckor.\n\n (这将在两周后发生。 / It will happen in two weeks."
+  },
+  {
+    "chapter": 5,
+    "heading": "① 基数词 0–100",
+    "text": "💡 ett vs. en：单独数数时用 ett；修饰名词时按 genus：en bil（一辆车）/ ett hus（一座房子）。21/31 等合成数字同理：tjugoett hus / tjugoen bil。\n\n 💡 千位分隔用空格（1 000），不用逗号。小数点用逗号（3,14 = 3.14）——与德/法一致，与英语相反。"
+  },
+  {
+    "chapter": 5,
+    "heading": "② 序数词",
+    "text": "💡 forsta（第一）和 andra（第二）不规则，与英语 first/second 一样。第三起规律化，加 -de 或 -te（视结尾）。\n\n 日期、月份与年份"
+  },
+  {
+    "chapter": 5,
+    "heading": "② 序数词",
+    "text": "Idag ar det den femte mars.\n\n (今天是三月五日。 / Today is the fifth of March.)\n\n -\\ den + 序数词 + 月份（无介词）\n\n Motet ar den tjugotredje oktober klockan tio.\n\n (会议是十月二十三日十点钟。 / The meeting is on the twenty-third of October at ten o'clock.)"
+  },
+  {
+    "chapter": 5,
+    "heading": "① 时刻报时系统",
+    "text": "瑞典语报时以半点为参照轴，分为三段：整点、过半点（用 over）、差半点（用 i）："
+  },
+  {
+    "chapter": 5,
+    "heading": "① 时刻报时系统",
+    "text": "⚠️ halv fyra = 3:30，不是 4:30！瑞典语 halv + 下一个整点（半到下一点），不是上一个整点。halv atta = 7:30，halv tolv = 11:30。这是与英语 half past 最大的区别，也与德语 halb vier 完全相同。\n\n 💡 日常口语中也常用 24 小时制数字报时，尤其是时刻表和正式场合：klockan fjorton trettio = 14:30。\n\n Nar borjar filmen? — Den borjar kvart over sju.\n\n (电影什么时候开始？——它从七点一刻开始。 / When does the fil"
+  },
+  {
+    "chapter": 5,
+    "heading": "③ 星期",
+    "text": "💡 -s 结尾规律：i mandags（上周一）/ i torsdags（上周四）/ i morse（今早）/ i somras（今年夏天）—— -s 结尾专门标记已过去的特定时间点，是瑞典语独特的时间标记法。"
+  },
+  {
+    "chapter": 5,
+    "heading": "综合短文：一则旅游方向指引",
+    "text": "体裁：实用说明文 · 场景：斯德哥尔摩老城区旅游指引 · 难度：A2+"
+  },
+  {
+    "chapter": 5,
+    "heading": "综合短文：一则旅游方向指引",
+    "text": "本篇综合运用本章的位置介词、方向介词、时间介词、数字和时间表达，以旅游信息手册的书面风格呈现，比口语对话更规范，句式也更复杂。"
+  },
+  {
+    "chapter": 6,
+    "heading": "6.1 食物与三餐",
+    "text": "饮食词汇是日常会话中出现频率最高的名词群之一。本节先介绍三餐表达，再按类别覆盖最常见的食物名词。"
+  },
+  {
+    "chapter": 6,
+    "heading": "6.2 蔬菜与水果",
+    "text": "💡 购物时常用：Kan jag faa ett kilo tomater?（我可以买一公斤番茄吗？）/ Hur mycket kostar ett kilo aapplen?（一公斤苹果多少钱？）\n\n 💡 瑞典语中很多水果是从法语/意大利语借来的，发音和拼写与英语有所不同但容易认出：apelsin（来自法语 orange de Chine）, citron, mango, ananas。\n\n Jag koepte ett kilo aapplen och en paase morotter.\n\n (我买了一公斤苹果和一袋胡萝卜。 / I bought a kilogram of apples "
+  },
+  {
+    "chapter": 6,
+    "heading": "6.4 家具与楼房",
+    "text": "💡 描述家具位置时，stå（站）用于直立物品（lampan staar = 灯立着），ligga（躺）用于平放物品（boken ligger = 书平放着），haanga（挂）用于悬挂物品（gardinen haanger = 窗帘挂着）。\n\n Vardagsrummet aar litet men mysigt — det finns en soffa, ett soffbord och en stor bokhylla.\n\n (客厅很小但很舒适——有一张沙发、一个茶几和一个大书架。 / The living room is small but cosy — there's a sofa, "
+  },
+  {
+    "chapter": 6,
+    "heading": "6.5 自然环境",
+    "text": "💡 瑞典语中有几个专门的树种词是瑞典自然的标志：björk（白桦）、gran（云杉）、tall（松树）——这三种树在瑞典森林中极为常见，在文学和日常生活中频繁出现。\n\n Vi gick i skogen och letade svamp vid en liten å.\n\n (我们在森林里采蘑菇，在一条小溪旁寻找。 / We walked in the forest and looked for mushrooms by a small stream.)\n\n -\\ i skogen（在森林里）；vid en aa（在小溪旁）\n\n Utsikten fraan berget var fantast"
+  },
+  {
+    "chapter": 6,
+    "heading": "6.6 常见动物",
+    "text": "💡 älg（麋鹿）是瑞典的国家象征之一，在公路旁的警告标志上随处可见。瑞典语里有个说法：Sverige aar ett älgarnas land（瑞典是麋鹿之国）。在森林中骑车或开车时，看到 älg 出没是很常见的事。\n\n I Sverige finns det fler älgar än i nåagot annat europeiskt land.\n\n (瑞典麋鹿的数量比其他任何欧洲国家都多。 / In Sweden there are more moose than in any other European country.)\n\n Min granne har tva hundar "
+  },
+  {
+    "chapter": 6,
+    "heading": "6.7 交通工具 + 搭配动词与介词",
+    "text": "交通工具名词需要与正确的动词（ga / aka / kora）和介词搭配使用，详见第四章 4.3 节。本节在名词表格之后专门列出搭配规则。"
+  },
+  {
+    "chapter": 6,
+    "heading": "6.9 身体部位",
+    "text": "💡 göra ont（疼/hurt）是描述疼痛的核心表达：Det gör ont i ryggen.（背很疼。）/ Mitt huvud gör ont.（我头疼。）字面意思是\"做出疼痛\"，主语是疼痛的部位。\n\n Jag har ont i halsen och lite feber.\n\n (我喉咙痛，还有点发烧。 / I have a sore throat and a slight fever.)\n\n -\\ ha ont i + 身体部位 = have pain in / have a sore...\n\n Hon slog sig på knäet när hon föll.\n\n (她摔倒"
+  },
+  {
+    "chapter": 6,
+    "heading": "6.10 学习用品 + 搭配动词",
+    "text": "💡 läsa 用于口语中描述学习科目，相当于英语 study（I study history）：Jag laser historia.。而 studera 更正式，类似 I am doing a degree in...。两者可以互换，但 plugga 是最口语化的说法，类似英语的 to cram / to grind。\n\n Har du gjort läxorna? — Inte än, jag ska plugga efter middagen.\n\n (你做作业了吗？——还没，我晚饭后再学。 / Have you done the homework? — Not yet, I'll stu"
+  },
+  {
+    "chapter": 6,
+    "heading": "📖 综合短文：一段购物对话",
+    "text": "体裁：日常口语对话 · 场景：在服装店购物 · 难度：A2（词汇综合）"
+  },
+  {
+    "chapter": 6,
+    "heading": "📖 综合短文：一段购物对话",
+    "text": "本篇对话综合运用本章的衣物、食物（提及购物清单）、数字（价格）等名词词汇，并自然融入前几章学习的动词搭配（ha pa sig / ta pa sig / kosta）、形容词变格和比较级，以及第一章的疑问词句型。这是全书最综合的一篇语境文本。"
+  }
+]

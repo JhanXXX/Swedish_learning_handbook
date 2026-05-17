@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "v_0",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "spela fotboll",
+    "present": "spelar",
+    "past": "spelade",
+    "supinum": "spelat",
+    "zh": "踢足球",
+    "group": "G1"
+  },
+  {
+    "id": "v_1",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "spela tennis",
+    "present": "spelar",
+    "past": "spelade",
+    "supinum": "spelat",
+    "zh": "打网球",
+    "group": "G1"
+  },
+  {
+    "id": "v_2",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "simma",
+    "present": "simmar",
+    "past": "simmade",
+    "supinum": "simmat",
+    "zh": "游泳",
+    "group": "G1"
+  },
+  {
+    "id": "v_3",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "springa",
+    "present": "springer",
+    "past": "sprang",
+    "supinum": "sprungit",
+    "zh": "跑步",
+    "group": "G4"
+  },
+  {
+    "id": "v_4",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "cykla",
+    "present": "cyklar",
+    "past": "cyklade",
+    "supinum": "cyklat",
+    "zh": "骑自行车",
+    "group": "G1"
+  },
+  {
+    "id": "v_5",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "tranas",
+    "present": "tranas",
+    "past": "tranades",
+    "supinum": "tranats",
+    "zh": "训练/锻炼",
+    "group": "G1被动"
+  },
+  {
+    "id": "v_6",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "gymma",
+    "present": "gymmar",
+    "past": "gymmade",
+    "supinum": "gymmat",
+    "zh": "去健身房（口语）",
+    "group": "G1"
+  },
+  {
+    "id": "v_7",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "vandra",
+    "present": "vandrar",
+    "past": "vandrade",
+    "supinum": "vandrat",
+    "zh": "徒步/远足",
+    "group": "G1"
+  },
+  {
+    "id": "v_8",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "klättra",
+    "present": "klättrar",
+    "past": "klättrade",
+    "supinum": "klättrat",
+    "zh": "攀岩/爬",
+    "group": "G1"
+  },
+  {
+    "id": "v_9",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "aka skidor",
+    "present": "akar skidor",
+    "past": "akte skidor",
+    "supinum": "akit skidor",
+    "zh": "滑雪",
+    "group": "G1 (aka)"
+  },
+  {
+    "id": "v_10",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "aka skridskor",
+    "present": "akar",
+    "past": "akte",
+    "supinum": "akit",
+    "zh": "溜冰/滑冰",
+    "group": "G1 (aka)"
+  },
+  {
+    "id": "v_11",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "dansa",
+    "present": "dansar",
+    "past": "dansade",
+    "supinum": "dansat",
+    "zh": "跳舞",
+    "group": "G1"
+  },
+  {
+    "id": "v_12",
+    "category": "② 运动与体育活动动词",
+    "infinitive": "yoga",
+    "present": "yogar",
+    "past": "yogade",
+    "supinum": "yogat",
+    "zh": "练瑜伽（口语化）",
+    "group": "G1"
+  },
+  {
+    "id": "v_13",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "lasa",
+    "present": "laser",
+    "past": "laste",
+    "supinum": "last",
+    "zh": "阅读",
+    "group": "G2a"
+  },
+  {
+    "id": "v_14",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "skriva",
+    "present": "skriver",
+    "past": "skrev",
+    "supinum": "skrivit",
+    "zh": "写作",
+    "group": "G4"
+  },
+  {
+    "id": "v_15",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "rita",
+    "present": "ritar",
+    "past": "ritade",
+    "supinum": "ritat",
+    "zh": "画画（线描）",
+    "group": "G1"
+  },
+  {
+    "id": "v_16",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "mala",
+    "present": "malar",
+    "past": "malade",
+    "supinum": "malat",
+    "zh": "绘画（颜料）",
+    "group": "G1"
+  },
+  {
+    "id": "v_17",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "fotografera",
+    "present": "fotograferar",
+    "past": "fotograferade",
+    "supinum": "fotograferat",
+    "zh": "摄影",
+    "group": "G1"
+  },
+  {
+    "id": "v_18",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "laga mat",
+    "present": "lagar mat",
+    "past": "lagade mat",
+    "supinum": "lagat mat",
+    "zh": "烹饪",
+    "group": "G1"
+  },
+  {
+    "id": "v_19",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "baka",
+    "present": "bakar",
+    "past": "bakade",
+    "supinum": "bakat",
+    "zh": "烘焙",
+    "group": "G1"
+  },
+  {
+    "id": "v_20",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "odla",
+    "present": "odlar",
+    "past": "odlade",
+    "supinum": "odlat",
+    "zh": "种植/园艺",
+    "group": "G1"
+  },
+  {
+    "id": "v_21",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "spela spel",
+    "present": "spelar spel",
+    "past": "spelade spel",
+    "supinum": "spelat spel",
+    "zh": "玩游戏（桌游/电游）",
+    "group": "G1"
+  },
+  {
+    "id": "v_22",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "titta pa film",
+    "present": "tittar pa",
+    "past": "tittade pa",
+    "supinum": "tittat pa",
+    "zh": "看电影",
+    "group": "G1"
+  },
+  {
+    "id": "v_23",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "resa",
+    "present": "reser",
+    "past": "reste",
+    "supinum": "rest",
+    "zh": "旅行",
+    "group": "G2a"
+  },
+  {
+    "id": "v_24",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "samla",
+    "present": "samlar",
+    "past": "samlade",
+    "supinum": "samlat",
+    "zh": "收藏/收集",
+    "group": "G1"
+  },
+  {
+    "id": "v_25",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "sticka",
+    "present": "stickar",
+    "past": "stickade",
+    "supinum": "stickat",
+    "zh": "织毛衣/针织",
+    "group": "G1"
+  },
+  {
+    "id": "v_26",
+    "category": "④ 其他休闲爱好动词",
+    "infinitive": "sy",
+    "present": "syr",
+    "past": "sydde",
+    "supinum": "sytt",
+    "zh": "缝纫",
+    "group": "G3"
+  },
+  {
+    "id": "v_27",
+    "category": "① 饮食类",
+    "infinitive": "ata",
+    "present": "ater",
+    "past": "at",
+    "supinum": "atit",
+    "zh": "吃",
+    "group": "不规则"
+  },
+  {
+    "id": "v_28",
+    "category": "① 饮食类",
+    "infinitive": "dricka",
+    "present": "dricker",
+    "past": "drack",
+    "supinum": "druckit",
+    "zh": "喝",
+    "group": "G4"
+  },
+  {
+    "id": "v_29",
+    "category": "① 饮食类",
+    "infinitive": "smaka",
+    "present": "smakar",
+    "past": "smakade",
+    "supinum": "smakat",
+    "zh": "品尝 / 尝起来",
+    "group": "G1"
+  },
+  {
+    "id": "v_30",
+    "category": "① 饮食类",
+    "infinitive": "tugga",
+    "present": "tuggar",
+    "past": "tuggade",
+    "supinum": "tuggat",
+    "zh": "咀嚼",
+    "group": "G1"
+  },
+  {
+    "id": "v_31",
+    "category": "① 饮食类",
+    "infinitive": "svalja",
+    "present": "svaljer",
+    "past": "svalde",
+    "supinum": "svalt",
+    "zh": "吞咽",
+    "group": "G2a"
+  },
+  {
+    "id": "v_32",
+    "category": "① 饮食类",
+    "infinitive": "laga mat",
+    "present": "lagar mat",
+    "past": "lagade mat",
+    "supinum": "lagat mat",
+    "zh": "做饭/烹饪",
+    "group": "G1"
+  },
+  {
+    "id": "v_33",
+    "category": "① 饮食类",
+    "infinitive": "baka",
+    "present": "bakar",
+    "past": "bakade",
+    "supinum": "bakat",
+    "zh": "烘焙",
+    "group": "G1"
+  },
+  {
+    "id": "v_34",
+    "category": "① 饮食类",
+    "infinitive": "koka",
+    "present": "kokar",
+    "past": "kokade",
+    "supinum": "kokat",
+    "zh": "煮/烹煮",
+    "group": "G1"
+  },
+  {
+    "id": "v_35",
+    "category": "① 饮食类",
+    "infinitive": "steka",
+    "present": "stekar",
+    "past": "stekte",
+    "supinum": "stekt",
+    "zh": "煎/炒",
+    "group": "G2a"
+  },
+  {
+    "id": "v_36",
+    "category": "① 饮食类",
+    "infinitive": "frukostera",
+    "present": "frukosterar",
+    "past": "frukosterade",
+    "supinum": "frukosterat",
+    "zh": "吃早饭（正式）",
+    "group": "G1"
+  },
+  {
+    "id": "v_37",
+    "category": "① 饮食类",
+    "infinitive": "ata lunch",
+    "present": "ater lunch",
+    "past": "at lunch",
+    "supinum": "atit lunch",
+    "zh": "吃午饭",
+    "group": "不规则"
+  },
+  {
+    "id": "v_38",
+    "category": "① 饮食类",
+    "infinitive": "ata middag",
+    "present": "ater middag",
+    "past": "at middag",
+    "supinum": "atit middag",
+    "zh": "吃晚饭",
+    "group": "不规则"
+  },
+  {
+    "id": "v_39",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "sova",
+    "present": "sover",
+    "past": "sov",
+    "supinum": "sovit",
+    "zh": "睡觉",
+    "group": "G4"
+  },
+  {
+    "id": "v_40",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "vakna",
+    "present": "vaknar",
+    "past": "vaknade",
+    "supinum": "vaknat",
+    "zh": "醒来",
+    "group": "G1"
+  },
+  {
+    "id": "v_41",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "somna",
+    "present": "somnar",
+    "past": "somnade",
+    "supinum": "somnat",
+    "zh": "入睡/睡着",
+    "group": "G1"
+  },
+  {
+    "id": "v_42",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "vila",
+    "present": "vilar",
+    "past": "vilade",
+    "supinum": "vilat",
+    "zh": "休息",
+    "group": "G1"
+  },
+  {
+    "id": "v_43",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "ligga",
+    "present": "ligger",
+    "past": "lag",
+    "supinum": "legat",
+    "zh": "躺（着）",
+    "group": "G4"
+  },
+  {
+    "id": "v_44",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "gaspna",
+    "present": "gaspnar",
+    "past": "gaspnade",
+    "supinum": "gaspnat",
+    "zh": "打哈欠",
+    "group": "G1"
+  },
+  {
+    "id": "v_45",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "droomma",
+    "present": "droommer",
+    "past": "droomde",
+    "supinum": "droomt",
+    "zh": "做梦",
+    "group": "G2b"
+  },
+  {
+    "id": "v_46",
+    "category": "③ 睡眠与休息类",
+    "infinitive": "slappna av",
+    "present": "slappnar av",
+    "past": "slappnade av",
+    "supinum": "slappnat av",
+    "zh": "放松",
+    "group": "G1 + 小品词"
+  },
+  {
+    "id": "v_47",
+    "category": "④ 居住与生活类",
+    "infinitive": "bo",
+    "present": "bor",
+    "past": "bodde",
+    "supinum": "bott",
+    "zh": "居住/住",
+    "group": "G3"
+  },
+  {
+    "id": "v_48",
+    "category": "④ 居住与生活类",
+    "infinitive": "flytta",
+    "present": "flyttar",
+    "past": "flyttade",
+    "supinum": "flyttat",
+    "zh": "搬家/移动",
+    "group": "G1"
+  },
+  {
+    "id": "v_49",
+    "category": "④ 居住与生活类",
+    "infinitive": "flytta in",
+    "present": "flyttar in",
+    "past": "flyttade in",
+    "supinum": "flyttat in",
+    "zh": "搬入",
+    "group": "G1 + 小品词"
+  },
+  {
+    "id": "v_50",
+    "category": "④ 居住与生活类",
+    "infinitive": "flytta ut",
+    "present": "flyttar ut",
+    "past": "flyttade ut",
+    "supinum": "flyttat ut",
+    "zh": "搬出",
+    "group": "G1 + 小品词"
+  },
+  {
+    "id": "v_51",
+    "category": "④ 居住与生活类",
+    "infinitive": "hyra",
+    "present": "hyrar",
+    "past": "hyrde",
+    "supinum": "hyrt",
+    "zh": "租借",
+    "group": "G2a"
+  },
+  {
+    "id": "v_52",
+    "category": "④ 居住与生活类",
+    "infinitive": "aga",
+    "present": "ager",
+    "past": "agde",
+    "supinum": "agt",
+    "zh": "拥有/持有",
+    "group": "G2a"
+  },
+  {
+    "id": "v_53",
+    "category": "④ 居住与生活类",
+    "infinitive": "stada",
+    "present": "stadar",
+    "past": "stadade",
+    "supinum": "stadat",
+    "zh": "打扫/清洁",
+    "group": "G1"
+  },
+  {
+    "id": "v_54",
+    "category": "④ 居住与生活类",
+    "infinitive": "diska",
+    "present": "diskar",
+    "past": "diskade",
+    "supinum": "diskat",
+    "zh": "洗碗",
+    "group": "G1"
+  },
+  {
+    "id": "v_55",
+    "category": "④ 居住与生活类",
+    "infinitive": "tvatta",
+    "present": "tvattar",
+    "past": "tvattade",
+    "supinum": "tvottat",
+    "zh": "洗（衣物/身体）",
+    "group": "G1"
+  },
+  {
+    "id": "v_56",
+    "category": "④ 居住与生活类",
+    "infinitive": "laga",
+    "present": "lagar",
+    "past": "lagade",
+    "supinum": "lagat",
+    "zh": "修理/做（饭）",
+    "group": "G1"
+  },
+  {
+    "id": "v_57",
+    "category": "④ 居住与生活类",
+    "infinitive": "kasta",
+    "present": "kastar",
+    "past": "kastade",
+    "supinum": "kastat",
+    "zh": "扔/抛",
+    "group": "G1"
+  },
+  {
+    "id": "v_58",
+    "category": "④ 居住与生活类",
+    "infinitive": "sopte",
+    "present": "sopar",
+    "past": "sopade",
+    "supinum": "sopat",
+    "zh": "扫地",
+    "group": "G1"
+  },
+  {
+    "id": "v_59",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "koppa",
+    "present": "koppar",
+    "past": "koppte",
+    "supinum": "koppt",
+    "zh": "买/购买",
+    "group": "G2a"
+  },
+  {
+    "id": "v_60",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "salja",
+    "present": "saljer",
+    "past": "salde",
+    "supinum": "salt",
+    "zh": "卖/出售",
+    "group": "G2a"
+  },
+  {
+    "id": "v_61",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "betala",
+    "present": "betalar",
+    "past": "betalade",
+    "supinum": "betalat",
+    "zh": "付钱/结账",
+    "group": "G1"
+  },
+  {
+    "id": "v_62",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "kosta",
+    "present": "kostar",
+    "past": "kostade",
+    "supinum": "kostat",
+    "zh": "花费/值……钱",
+    "group": "G1"
+  },
+  {
+    "id": "v_63",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "spara",
+    "present": "sparar",
+    "past": "sparade",
+    "supinum": "sparat",
+    "zh": "储蓄/节省",
+    "group": "G1"
+  },
+  {
+    "id": "v_64",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "vaaxla",
+    "present": "vaaxlar",
+    "past": "vaaxlade",
+    "supinum": "vaaxlat",
+    "zh": "兑换/找零",
+    "group": "G1"
+  },
+  {
+    "id": "v_65",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "bestaalla",
+    "present": "bestaaller",
+    "past": "bestaallde",
+    "supinum": "bestaallst",
+    "zh": "预订/点餐",
+    "group": "G2a"
+  },
+  {
+    "id": "v_66",
+    "category": "⑤ 购物与金钱类",
+    "infinitive": "hämta",
+    "present": "hämtar",
+    "past": "hämtade",
+    "supinum": "hämtat",
+    "zh": "取/接（人）",
+    "group": "G1"
+  },
+  {
+    "id": "v_67",
+    "category": "② 完整移动动词表",
+    "infinitive": "ga",
+    "present": "gar",
+    "past": "gick",
+    "supinum": "gatt",
+    "zh": "走/步行/去",
+    "group": "不规则"
+  },
+  {
+    "id": "v_68",
+    "category": "② 完整移动动词表",
+    "infinitive": "springa",
+    "present": "springer",
+    "past": "sprang",
+    "supinum": "sprungit",
+    "zh": "跑/奔跑",
+    "group": "G4"
+  },
+  {
+    "id": "v_69",
+    "category": "② 完整移动动词表",
+    "infinitive": "hoppa",
+    "present": "hoppar",
+    "past": "hoppade",
+    "supinum": "hoppat",
+    "zh": "跳/蹦",
+    "group": "G1"
+  },
+  {
+    "id": "v_70",
+    "category": "② 完整移动动词表",
+    "infinitive": "klättra",
+    "present": "klattrar",
+    "past": "klattrade",
+    "supinum": "klattrat",
+    "zh": "爬/攀爬",
+    "group": "G1"
+  },
+  {
+    "id": "v_71",
+    "category": "② 完整移动动词表",
+    "infinitive": "simma",
+    "present": "simmar",
+    "past": "simmade",
+    "supinum": "simmat",
+    "zh": "游泳",
+    "group": "G1"
+  },
+  {
+    "id": "v_72",
+    "category": "② 完整移动动词表",
+    "infinitive": "flyga",
+    "present": "flyger",
+    "past": "flog",
+    "supinum": "flugit",
+    "zh": "飞/乘飞机",
+    "group": "G4"
+  },
+  {
+    "id": "v_73",
+    "category": "② 完整移动动词表",
+    "infinitive": "aka",
+    "present": "aker",
+    "past": "akte",
+    "supinum": "akit",
+    "zh": "乘坐/滑行",
+    "group": "G1"
+  },
+  {
+    "id": "v_74",
+    "category": "② 完整移动动词表",
+    "infinitive": "kora",
+    "present": "kor",
+    "past": "korde",
+    "supinum": "kort",
+    "zh": "驾驶",
+    "group": "G2a"
+  },
+  {
+    "id": "v_75",
+    "category": "② 完整移动动词表",
+    "infinitive": "cykla",
+    "present": "cyklar",
+    "past": "cyklade",
+    "supinum": "cyklat",
+    "zh": "骑自行车",
+    "group": "G1"
+  },
+  {
+    "id": "v_76",
+    "category": "② 完整移动动词表",
+    "infinitive": "rida",
+    "present": "rider",
+    "past": "red",
+    "supinum": "ridit",
+    "zh": "骑马",
+    "group": "G4"
+  },
+  {
+    "id": "v_77",
+    "category": "② 完整移动动词表",
+    "infinitive": "vandra",
+    "present": "vandrar",
+    "past": "vandrade",
+    "supinum": "vandrat",
+    "zh": "徒步/远足",
+    "group": "G1"
+  },
+  {
+    "id": "v_78",
+    "category": "② 完整移动动词表",
+    "infinitive": "promenera",
+    "present": "promenerar",
+    "past": "promenerade",
+    "supinum": "promenerat",
+    "zh": "散步",
+    "group": "G1"
+  },
+  {
+    "id": "v_79",
+    "category": "② 完整移动动词表",
+    "infinitive": "roora pa sig",
+    "present": "roor pa sig",
+    "past": "roorde pa sig",
+    "supinum": "roort pa sig",
+    "zh": "运动/活动身体",
+    "group": "G2b"
+  },
+  {
+    "id": "v_80",
+    "category": "② 完整移动动词表",
+    "infinitive": "vanda sig",
+    "present": "vander sig",
+    "past": "vande sig",
+    "supinum": "vant sig",
+    "zh": "转身/转向",
+    "group": "G2a"
+  },
+  {
+    "id": "v_81",
+    "category": "② 完整移动动词表",
+    "infinitive": "stanna",
+    "present": "stannar",
+    "past": "stannade",
+    "supinum": "stannat",
+    "zh": "停止/停留",
+    "group": "G1"
+  },
+  {
+    "id": "v_82",
+    "category": "② 完整移动动词表",
+    "infinitive": "vila",
+    "present": "vilar",
+    "past": "vilade",
+    "supinum": "vilat",
+    "zh": "休息/停下",
+    "group": "G1"
+  },
+  {
+    "id": "v_83",
+    "category": "② 完整移动动词表",
+    "infinitive": "komma",
+    "present": "kommer",
+    "past": "kom",
+    "supinum": "kommit",
+    "zh": "来/到达",
+    "group": "不规则"
+  },
+  {
+    "id": "v_84",
+    "category": "② 完整移动动词表",
+    "infinitive": "anlanda",
+    "present": "anlander",
+    "past": "anlanda",
+    "supinum": "anlaant",
+    "zh": "抵达（正式）",
+    "group": "G2a"
+  },
+  {
+    "id": "v_85",
+    "category": "② 完整移动动词表",
+    "infinitive": "aaka",
+    "present": "aakar",
+    "past": "aakte",
+    "supinum": "aakit",
+    "zh": "离开（口语 ge sig iag）",
+    "group": "G1"
+  },
+  {
+    "id": "v_86",
+    "category": "② 完整移动动词表",
+    "infinitive": "lamna",
+    "present": "lamnar",
+    "past": "lamnade",
+    "supinum": "lamnat",
+    "zh": "离开/离开某处",
+    "group": "G1"
+  },
+  {
+    "id": "v_87",
+    "category": "① 感知动词",
+    "infinitive": "se",
+    "present": "ser",
+    "past": "sag",
+    "supinum": "sett",
+    "zh": "看见/看",
+    "group": "不规则"
+  },
+  {
+    "id": "v_88",
+    "category": "① 感知动词",
+    "infinitive": "titta (pa)",
+    "present": "tittar",
+    "past": "tittade",
+    "supinum": "tittat",
+    "zh": "注视/观看",
+    "group": "G1"
+  },
+  {
+    "id": "v_89",
+    "category": "① 感知动词",
+    "infinitive": "hora",
+    "present": "hor",
+    "past": "horde",
+    "supinum": "hort",
+    "zh": "听见/听到",
+    "group": "G2a"
+  },
+  {
+    "id": "v_90",
+    "category": "① 感知动词",
+    "infinitive": "lyssna (pa)",
+    "present": "lyssnar",
+    "past": "lyssnade",
+    "supinum": "lyssnat",
+    "zh": "聆听（主动）",
+    "group": "G1"
+  },
+  {
+    "id": "v_91",
+    "category": "① 感知动词",
+    "infinitive": "kanna",
+    "present": "kanner",
+    "past": "kande",
+    "supinum": "kant",
+    "zh": "感觉/感受/认识",
+    "group": "G2a"
+  },
+  {
+    "id": "v_92",
+    "category": "① 感知动词",
+    "infinitive": "lukta",
+    "present": "luktar",
+    "past": "luktade",
+    "supinum": "luktat",
+    "zh": "闻到/有气味",
+    "group": "G1"
+  },
+  {
+    "id": "v_93",
+    "category": "① 感知动词",
+    "infinitive": "smaka",
+    "present": "smakar",
+    "past": "smakade",
+    "supinum": "smakat",
+    "zh": "尝到/尝起来",
+    "group": "G1"
+  },
+  {
+    "id": "v_94",
+    "category": "① 感知动词",
+    "infinitive": "rorara vid",
+    "present": "ror vid",
+    "past": "rorde vid",
+    "supinum": "rort vid",
+    "zh": "触摸/接触",
+    "group": "G2b"
+  },
+  {
+    "id": "v_95",
+    "category": "① 感知动词",
+    "infinitive": "uppleva",
+    "present": "upplever",
+    "past": "upplevde",
+    "supinum": "upplevt",
+    "zh": "体验/经历",
+    "group": "G2a"
+  },
+  {
+    "id": "v_96",
+    "category": "② 认知类动词",
+    "infinitive": "veta",
+    "present": "vet",
+    "past": "visste",
+    "supinum": "vetat",
+    "zh": "知道（事实）",
+    "group": "不规则"
+  },
+  {
+    "id": "v_97",
+    "category": "② 认知类动词",
+    "infinitive": "kanna",
+    "present": "kanner",
+    "past": "kande",
+    "supinum": "kant",
+    "zh": "认识（人）/感受",
+    "group": "G2a"
+  },
+  {
+    "id": "v_98",
+    "category": "② 认知类动词",
+    "infinitive": "forsta",
+    "present": "forstar",
+    "past": "forstod",
+    "supinum": "forstatt",
+    "zh": "理解/明白",
+    "group": "不规则"
+  },
+  {
+    "id": "v_99",
+    "category": "② 认知类动词",
+    "infinitive": "tycka",
+    "present": "tycker",
+    "past": "tyckte",
+    "supinum": "tyckt",
+    "zh": "认为/觉得（主观）",
+    "group": "G2a"
+  },
+  {
+    "id": "v_100",
+    "category": "② 认知类动词",
+    "infinitive": "tro",
+    "present": "tror",
+    "past": "trodde",
+    "supinum": "trott",
+    "zh": "相信/认为（主观推测）",
+    "group": "G2b"
+  },
+  {
+    "id": "v_101",
+    "category": "② 认知类动词",
+    "infinitive": "mena",
+    "present": "menar",
+    "past": "menade",
+    "supinum": "menat",
+    "zh": "意思是/意指",
+    "group": "G1"
+  },
+  {
+    "id": "v_102",
+    "category": "② 认知类动词",
+    "infinitive": "tanka",
+    "present": "tanker",
+    "past": "tankte",
+    "supinum": "tankt",
+    "zh": "思考/打算",
+    "group": "G2a"
+  },
+  {
+    "id": "v_103",
+    "category": "② 认知类动词",
+    "infinitive": "komma ihag",
+    "present": "kommer ihag",
+    "past": "kom ihag",
+    "supinum": "kommit ihag",
+    "zh": "记得/想起来",
+    "group": "不规则+小品词"
+  },
+  {
+    "id": "v_104",
+    "category": "② 认知类动词",
+    "infinitive": "glomma",
+    "present": "glomamer",
+    "past": "glomade",
+    "supinum": "glomt",
+    "zh": "忘记",
+    "group": "G1/G2混合"
+  },
+  {
+    "id": "v_105",
+    "category": "② 认知类动词",
+    "infinitive": "lara sig",
+    "present": "lar sig",
+    "past": "larde sig",
+    "supinum": "lart sig",
+    "zh": "学习/习得",
+    "group": "G2a+反身"
+  },
+  {
+    "id": "v_106",
+    "category": "② 认知类动词",
+    "infinitive": "undervisa",
+    "present": "undervisar",
+    "past": "undervisade",
+    "supinum": "undervisat",
+    "zh": "教学/授课",
+    "group": "G1"
+  },
+  {
+    "id": "v_107",
+    "category": "② 认知类动词",
+    "infinitive": "forklara",
+    "present": "forklarar",
+    "past": "forklarade",
+    "supinum": "forklarat",
+    "zh": "解释",
+    "group": "G1"
+  },
+  {
+    "id": "irr_0",
+    "category": "不规则动词",
+    "infinitive": "vara",
+    "present": "är",
+    "past": "var",
+    "supinum": "varit",
+    "zh": "是 / 存在",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_1",
+    "category": "不规则动词",
+    "infinitive": "ha",
+    "present": "har",
+    "past": "hade",
+    "supinum": "haft",
+    "zh": "有 / 拥有",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_2",
+    "category": "不规则动词",
+    "infinitive": "gå",
+    "present": "går",
+    "past": "gick",
+    "supinum": "gått",
+    "zh": "走 / 步行 / 去（步行方式）",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_5",
+    "category": "不规则动词",
+    "infinitive": "ta",
+    "present": "tar",
+    "past": "tog",
+    "supinum": "tagit",
+    "zh": "拿 / 取 / 乘坐（交通工具）",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_6",
+    "category": "不规则动词",
+    "infinitive": "ge",
+    "present": "ger",
+    "past": "gav",
+    "supinum": "gett / givit",
+    "zh": "给",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_7",
+    "category": "不规则动词",
+    "infinitive": "göra",
+    "present": "gör",
+    "past": "gjorde",
+    "supinum": "gjort",
+    "zh": "做 / 干（某事）",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_9",
+    "category": "不规则动词",
+    "infinitive": "känna",
+    "present": "känner",
+    "past": "kände",
+    "supinum": "känt",
+    "zh": "认识某人；感受到某事（接名词或形容词）",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_10",
+    "category": "不规则动词",
+    "infinitive": "-t 后缀（最常用）",
+    "present": "ett词形式（形容词中性形式）即为副词",
+    "past": "snabb（快的）",
+    "supinum": "snabbt",
+    "zh": "快地",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_11",
+    "category": "不规则动词",
+    "infinitive": "-t 后缀",
+    "present": "同上",
+    "past": "glad（高兴的）",
+    "supinum": "glatt",
+    "zh": "高兴地",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_12",
+    "category": "不规则动词",
+    "infinitive": "-t 后缀",
+    "present": "同上",
+    "past": "tyst（安静的）",
+    "supinum": "tyst（不变）",
+    "zh": "安静地",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_13",
+    "category": "不规则动词",
+    "infinitive": "-ligen 后缀",
+    "present": "部分形容词加 -ligen",
+    "past": "naturlig（自然的）",
+    "supinum": "naturligtvis / naturligen",
+    "zh": "当然地 / 自然地",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_14",
+    "category": "不规则动词",
+    "infinitive": "-s 后缀（少数）",
+    "present": "表\"方式\"的少数词",
+    "past": "dels（部分地）",
+    "supinum": "—",
+    "zh": "（词汇化副词）",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_16",
+    "category": "不规则动词",
+    "infinitive": "jobbet",
+    "present": "ett jobb（定式）",
+    "past": "工作 / 单位（口语）",
+    "supinum": "work / the job",
+    "zh": "",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_17",
+    "category": "不规则动词",
+    "infinitive": "ett möte",
+    "present": "ett词",
+    "past": "会议",
+    "supinum": "a meeting",
+    "zh": "",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_18",
+    "category": "不规则动词",
+    "infinitive": "varade",
+    "present": "vara（持续）Group 1 过去时",
+    "past": "持续了",
+    "supinum": "lasted",
+    "zh": "",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_19",
+    "category": "不规则动词",
+    "infinitive": "en kollega",
+    "present": "en词",
+    "past": "同事",
+    "supinum": "a colleague",
+    "zh": "",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_20",
+    "category": "不规则动词",
+    "infinitive": "nöjd",
+    "present": "形容词（en词形）",
+    "past": "满足的 / 满意的",
+    "supinum": "satisfied / content",
+    "zh": "",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_23",
+    "category": "不规则动词",
+    "infinitive": "en utställning",
+    "present": "en词",
+    "past": "展览",
+    "supinum": "an exhibition",
+    "zh": "",
+    "group": "G4/不规则"
+  },
+  {
+    "id": "irr_24",
+    "category": "不规则动词",
+    "infinitive": "brukar",
+    "present": "情态动词",
+    "past": "通常（表习惯）",
+    "supinum": "usually / tend to",
+    "zh": "",
+    "group": "G4/不规则"
+  }
+]

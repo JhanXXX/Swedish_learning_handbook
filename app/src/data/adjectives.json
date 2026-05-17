@@ -1,0 +1,626 @@
+[
+  {
+    "category": "① 四种核心形式总览",
+    "sv": "基本形（en词，不定单数）",
+    "en": "en stor bil（一辆大车）",
+    "zh": "修饰 en词 单数不定名词"
+  },
+  {
+    "category": "① 四种核心形式总览",
+    "sv": "中性形（ett词，不定单数）",
+    "en": "ett stort hus（一座大房子）",
+    "zh": "修饰 ett词 单数不定名词；兼作副词"
+  },
+  {
+    "category": "② 完整变格示例（stor / liten / gammal）",
+    "sv": "stor（大）",
+    "en": "den/det stora bilen/huset",
+    "zh": "en stor bil"
+  },
+  {
+    "category": "② 完整变格示例（stor / liten / gammal）",
+    "sv": "liten（小）",
+    "en": "den/det lilla katten/barnet \\",
+    "zh": "en liten katt"
+  },
+  {
+    "category": "② 完整变格示例（stor / liten / gammal）",
+    "sv": "gammal（老/旧）",
+    "en": "den/det gamla mannen/huset",
+    "zh": "en gammal man"
+  },
+  {
+    "category": "② 完整变格示例（stor / liten / gammal）",
+    "sv": "ny（新）",
+    "en": "den/det nya boken/rummet",
+    "zh": "en ny bok"
+  },
+  {
+    "category": "② 完整变格示例（stor / liten / gammal）",
+    "sv": "rod（红色）",
+    "en": "den/det roda blomman/applet",
+    "zh": "en rod blomma"
+  },
+  {
+    "category": "3.2 颜色词汇",
+    "sv": "gron（绿）",
+    "en": "gront",
+    "zh": "gron"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "glad",
+    "en": "happy / glad",
+    "zh": "glatt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "lycklig",
+    "en": "happy / fortunate",
+    "zh": "lyckligt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "nojd",
+    "en": "satisfied / content",
+    "zh": "nojt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "stolt",
+    "en": "proud",
+    "zh": "stolt（不变）"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "lugn",
+    "en": "calm / relaxed",
+    "zh": "lugnt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "ivrig",
+    "en": "eager / enthusiastic",
+    "zh": "ivrigt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "tacksam",
+    "en": "grateful",
+    "zh": "tacksamt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "kattforalskat",
+    "en": "（example）",
+    "zh": "kattforalskat"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "forvanad",
+    "en": "surprised / amazed",
+    "zh": "forvanat"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "ledsen",
+    "en": "sad",
+    "zh": "ledset"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "trod",
+    "en": "tired",
+    "zh": "trott（不变）"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "stressad",
+    "en": "stressed",
+    "zh": "stressat"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "orolig",
+    "en": "worried / anxious",
+    "zh": "oroligt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "radd",
+    "en": "scared / afraid",
+    "zh": "raddt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "arg",
+    "en": "angry",
+    "zh": "argt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "besviken",
+    "en": "disappointed",
+    "zh": "besvikna"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "ensam",
+    "en": "lonely",
+    "zh": "ensamt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "sjuk",
+    "en": "sick / ill",
+    "zh": "sjukt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "uttrakad",
+    "en": "bored",
+    "zh": "uttrakad（不变）"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "hungrig",
+    "en": "hungry",
+    "zh": "hungrigt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "torsting",
+    "en": "thirsty",
+    "zh": "torstigt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "varm",
+    "en": "warm / hot",
+    "zh": "varmt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "kall",
+    "en": "cold",
+    "zh": "kallt"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "tryggt",
+    "en": "safe / secure",
+    "zh": "tryggt（ett同形）"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "forvirrad",
+    "en": "confused",
+    "zh": "forvirrat"
+  },
+  {
+    "category": "3.3 情绪与感受词汇",
+    "sv": "fokuserad",
+    "en": "focused",
+    "zh": "fokuserat"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "alska",
+    "en": "to love",
+    "zh": "最强（爱）"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "tycka om",
+    "en": "to like",
+    "zh": "喜欢（普通）"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "gilla",
+    "en": "to like (colloquial)",
+    "zh": "喜欢（口语，较随意）"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "foredraga",
+    "en": "to prefer",
+    "zh": "更喜欢（对比偏好）"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "bry sig om",
+    "en": "to care about",
+    "zh": "在乎/关心"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "hata",
+    "en": "to hate",
+    "zh": "讨厌（最强负面）"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "inte tycka om",
+    "en": "to dislike",
+    "zh": "不喜欢"
+  },
+  {
+    "category": "3.4 喜好与偏好表达",
+    "sv": "vara likgiltig for",
+    "en": "to be indifferent to",
+    "zh": "对...无所谓"
+  },
+  {
+    "category": "程度副词",
+    "sv": "valdigt / jattet",
+    "en": "jattet roligt（超好玩）",
+    "zh": "极强（口语）"
+  },
+  {
+    "category": "程度副词",
+    "sv": "mycket",
+    "en": "mycket bra（很好）",
+    "zh": "强"
+  },
+  {
+    "category": "程度副词",
+    "sv": "ganska",
+    "en": "ganska trott（挺累的）",
+    "zh": "中等"
+  },
+  {
+    "category": "程度副词",
+    "sv": "lite",
+    "en": "lite hungrig（有点饿）",
+    "zh": "弱"
+  },
+  {
+    "category": "程度副词",
+    "sv": "inte alls",
+    "en": "inte alls glad（一点都不高兴）",
+    "zh": "完全否定"
+  },
+  {
+    "category": "程度副词",
+    "sv": "alldeles for",
+    "en": "alldeles for dyrt（太贵了）",
+    "zh": "过度（否定意味）"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "stor",
+    "en": "liten / litet / sma / lilla",
+    "zh": "stort"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "lang",
+    "en": "kort",
+    "zh": "langt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "kort",
+    "en": "lang",
+    "zh": "kort（不变）"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "hog",
+    "en": "lag",
+    "zh": "hogt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "lag",
+    "en": "hog",
+    "zh": "lagt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "bred",
+    "en": "smal",
+    "zh": "brett"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "smal",
+    "en": "bred",
+    "zh": "smalt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "djup",
+    "en": "grund",
+    "zh": "djupt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "tung",
+    "en": "latt",
+    "zh": "tungt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "latt",
+    "en": "tung / svar",
+    "zh": "latt（不变）"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "bra",
+    "en": "dalig",
+    "zh": "bra（不变）"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "dalig",
+    "en": "bra",
+    "zh": "daligt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "vacker",
+    "en": "ful",
+    "zh": "vackert"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "ful",
+    "en": "vacker",
+    "zh": "fult"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "ren",
+    "en": "smutsig",
+    "zh": "rent"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "smutsig",
+    "en": "ren",
+    "zh": "smutsigt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "ny",
+    "en": "gammal",
+    "zh": "nytt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "gammal",
+    "en": "ny",
+    "zh": "gammalt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "billig",
+    "en": "dyr",
+    "zh": "billigt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "dyr",
+    "en": "billig",
+    "zh": "dyrt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "enkel",
+    "en": "komplicerad",
+    "zh": "enkelt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "komplicerad",
+    "en": "enkel",
+    "zh": "komplicerat"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "snall",
+    "en": "kind / nice",
+    "zh": "snallt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "trevlig",
+    "en": "pleasant / nice",
+    "zh": "trevligt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "rolig",
+    "en": "fun / funny",
+    "zh": "roligt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "trakig",
+    "en": "boring",
+    "zh": "trakigt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "klok",
+    "en": "wise / clever",
+    "zh": "klokt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "lat",
+    "en": "lazy",
+    "zh": "latt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "flitig",
+    "en": "hardworking / diligent",
+    "zh": "flitigt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "arlig",
+    "en": "honest",
+    "zh": "arligt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "busig",
+    "en": "naughty / mischievous",
+    "zh": "busigt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "blyg",
+    "en": "shy",
+    "zh": "blygt"
+  },
+  {
+    "category": "3.5 评价与描述词汇",
+    "sv": "utadrikad",
+    "en": "outgoing / extroverted",
+    "zh": "utadrikat"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "stor",
+    "en": "大/更大/最大",
+    "zh": "storre \\"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "lang",
+    "en": "长/更长/最长",
+    "zh": "langre \\"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "ung",
+    "en": "年轻/更年轻/最年轻",
+    "zh": "yngre \\"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "gammal",
+    "en": "老/更老/最老",
+    "zh": "aldre \\"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "snabb",
+    "en": "快/更快/最快",
+    "zh": "snabbare"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "billig",
+    "en": "便宜/更便宜/最便宜",
+    "zh": "billigare"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "trevlig",
+    "en": "好/更好/最好",
+    "zh": "trevligare"
+  },
+  {
+    "category": "① 规则变化：-are / -ast",
+    "sv": "intressant",
+    "en": "有趣/更有趣/最有趣",
+    "zh": "intressantare"
+  },
+  {
+    "category": "② 不规则变化（必须记忆）",
+    "sv": "bra",
+    "en": "good / better / best",
+    "zh": "battre"
+  },
+  {
+    "category": "② 不规则变化（必须记忆）",
+    "sv": "dalig",
+    "en": "bad / worse / worst",
+    "zh": "samre"
+  },
+  {
+    "category": "② 不规则变化（必须记忆）",
+    "sv": "manga",
+    "en": "many / more / most",
+    "zh": "fler"
+  },
+  {
+    "category": "② 不规则变化（必须记忆）",
+    "sv": "mycket",
+    "en": "much / more / most",
+    "zh": "mer"
+  },
+  {
+    "category": "② 不规则变化（必须记忆）",
+    "sv": "liten",
+    "en": "little / less / least",
+    "zh": "mindre"
+  },
+  {
+    "category": "② 不规则变化（必须记忆）",
+    "sv": "gammal",
+    "en": "old / older / oldest",
+    "zh": "aldre"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "en lagenhet",
+    "en": "an apartment / flat",
+    "zh": "en词"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "central",
+    "en": "central",
+    "zh": "形容词（此处副词用法）"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "marinbla",
+    "en": "navy blue",
+    "zh": "颜色形容词（不变格）"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "till och med",
+    "en": "even",
+    "zh": "副词短语"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "minst",
+    "en": "at least",
+    "zh": "副词（liten最高级）"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "bjuda in",
+    "en": "to invite",
+    "zh": "可分动词"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "efterat",
+    "en": "afterwards",
+    "zh": "副词"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "tacksam",
+    "en": "grateful",
+    "zh": "形容词"
+  },
+  {
+    "category": "综合短文：一篇人物介绍",
+    "sv": "god / gott / goda",
+    "en": "good (quality/taste)",
+    "zh": "bra 的正式/口语区分；god 强调品质/味道"
+  }
+]
