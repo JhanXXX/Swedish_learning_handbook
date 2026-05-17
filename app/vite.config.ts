@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/swedish_learning_handbook/",
+  base: "/Swedish_learning_handbook/",
 });

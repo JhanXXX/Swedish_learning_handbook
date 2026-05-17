@@ -3,7 +3,7 @@
 A comprehensive A2-level Swedish language reference handbook written for **Mandarin speakers**, with cross-language comparisons to English, German, and French.
 
 An **interactive web app** (flashcards, quizzes, AI conversation practice) is available at:
-> 🔗 **[Live App](https://JhanXXX.github.io/swedish_learning_handbook)** *(coming soon)*
+> 🔗 **[Live App](https://JhanXXX.github.io/Swedish_learning_handbook)** *(coming soon)*
 
 ---
 
