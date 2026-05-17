@@ -13,7 +13,7 @@ export default function App() {
   const { lang, setLang, tr } = useLang();
 
   return (
-    <BrowserRouter basename="/swedish-handbook">
+    <BrowserRouter basename="/Swedish_learning_handbook">
       <div className="layout">
         <Nav lang={lang} setLang={setLang} tr={tr} />
         <main style={{ flex: 1 }}>

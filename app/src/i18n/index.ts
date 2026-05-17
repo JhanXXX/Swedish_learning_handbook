@@ -602,4 +602,11 @@ export const t = {
   },
 } as const;
 
-export type Translations = (typeof t)["zh"];
+// Replace all string literal leaf types with `string` so any language object
+// can be passed where Translations is expected.
+type Loosen<T> =
+  T extends string ? string
+  : T extends readonly (infer U)[] ? Loosen<U>[]
+  : { [K in keyof T]: Loosen<T[K]> };
+
+export type Translations = Loosen<(typeof t)["zh"]>;
