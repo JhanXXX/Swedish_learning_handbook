@@ -88,21 +88,17 @@ async function speakBrowser(
   const voices = await waitForVoices();
   const svVoice = voices.find((v) => v.lang === "sv-SE") ?? voices.find((v) => v.lang.startsWith("sv"));
 
-  if (!svVoice) {
-    // No Swedish voice — try anyway with lang tag, but warn
-    onError("no-sv-voice");
-  }
-
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "sv-SE";
   utterance.rate = 0.9;
   if (svVoice) utterance.voice = svVoice;
 
-  // Detect silent failure: if onstart never fires within 2s, it failed
+  // Only report failure after speech definitely didn't start (silent browser drop).
+  // Use "no-sv-voice" hint when no Swedish voice is installed, since that's the likely cause.
   let started = false;
   const failTimer = setTimeout(() => {
-    if (!started) { onError("silent-fail"); onEnd(); }
-  }, 2000);
+    if (!started) { onError(svVoice ? "silent-fail" : "no-sv-voice"); onEnd(); }
+  }, 3000);
 
   utterance.onstart = () => { started = true; clearTimeout(failTimer); onStart(); };
   utterance.onend = () => { clearTimeout(failTimer); onEnd(); };
