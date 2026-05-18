@@ -27,6 +27,9 @@ export default function App() {
             <Route path="/handbook" element={<Handbook tr={tr} />} />
           </Routes>
         </main>
+        <footer className="app-footer">
+          Made with 🥕 by <a href="https://github.com/JhanXXX" target="_blank" rel="noopener noreferrer">Juju Carrot</a>
+        </footer>
       </div>
     </BrowserRouter>
   );

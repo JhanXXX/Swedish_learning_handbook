@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { type Lang, type Translations } from "../i18n";
+import CarrotIcon from "./CarrotIcon";
 
 interface Props {
   lang: Lang;
@@ -20,7 +21,10 @@ export default function Nav({ lang, setLang, tr }: Props) {
 
   return (
     <nav className="nav">
-      <span className="nav-brand">🇸🇪 {tr.appTitle}</span>
+      <span className="nav-brand">
+        <CarrotIcon size={22} />
+        <span>🇸🇪 {tr.appTitle}</span>
+      </span>
       {links.map((l) => (
         <NavLink
           key={l.to}
