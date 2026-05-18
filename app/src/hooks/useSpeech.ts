@@ -14,18 +14,18 @@ export function changeTTSEngine(engine: TTSEngine) {
   window.dispatchEvent(new Event("tts-engine-changed"));
 }
 
-// ── Eager voice cache — populated at module load so first click is instant ────
+// ── Voice cache — populated eagerly at module load ────────────────────────────
 let _voices: SpeechSynthesisVoice[] = [];
 if (typeof window !== "undefined" && "speechSynthesis" in window) {
-  const refreshVoices = () => { _voices = window.speechSynthesis.getVoices(); };
-  refreshVoices();
-  window.speechSynthesis.addEventListener("voiceschanged", refreshVoices);
+  const refresh = () => { _voices = window.speechSynthesis.getVoices(); };
+  refresh();
+  window.speechSynthesis.addEventListener("voiceschanged", refresh);
 }
 
 export function getSwedishVoice(): SpeechSynthesisVoice | null {
   if (!("speechSynthesis" in window)) return null;
-  const voices = _voices.length > 0 ? _voices : window.speechSynthesis.getVoices();
-  return voices.find((v) => v.lang === "sv-SE") ?? voices.find((v) => v.lang.startsWith("sv")) ?? null;
+  const v = _voices.length > 0 ? _voices : window.speechSynthesis.getVoices();
+  return v.find((x) => x.lang === "sv-SE") ?? v.find((x) => x.lang.startsWith("sv")) ?? null;
 }
 
 export function hasSwedishVoice(): boolean {
@@ -72,36 +72,39 @@ function speakBrowser(
 ): void {
   if (!("speechSynthesis" in window)) { onError("not-supported"); onEnd(); return; }
 
+  // Cancel any in-progress speech
   window.speechSynthesis.cancel();
 
   const svVoice = getSwedishVoice();
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "sv-SE";
-  utterance.rate = 0.9;
+  utterance.rate = 0.85;
   if (svVoice) utterance.voice = svVoice;
 
-  // Give immediate visual feedback — don't make user wait for onstart
+  // Show ⏹ immediately so the user knows the click registered
   onStart();
 
-  // Guard against onEnd being called twice (failTimer + utterance.onend race)
+  // Guard against onEnd being called more than once
   let ended = false;
   const safeEnd = () => { if (!ended) { ended = true; onEnd(); } };
 
-  // If onstart never fires within 4s the browser silently dropped the utterance
+  // If speech never actually starts, report after 5s
   const failTimer = setTimeout(() => {
     safeEnd();
     onError(svVoice ? "silent-fail" : "no-sv-voice");
-  }, 4000);
+  }, 5000);
 
   utterance.onstart = () => { clearTimeout(failTimer); };
-  utterance.onend = () => { clearTimeout(failTimer); safeEnd(); };
+  utterance.onend   = () => { clearTimeout(failTimer); safeEnd(); };
   utterance.onerror = (e) => {
     clearTimeout(failTimer);
     safeEnd();
     if (e.error !== "interrupted") onError(e.error);
   };
 
-  window.speechSynthesis.speak(utterance);
+  // Chrome silently drops speak() called immediately after cancel().
+  // A 100 ms gap is enough to let the engine reset.
+  setTimeout(() => window.speechSynthesis.speak(utterance), 100);
 }
 
 // ── Hook ──────────────────────────────────────────────────────────────────────
