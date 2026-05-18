@@ -8,10 +8,13 @@ app/dist/
 # macOS
 .DS_Store
 
-# Environment / secrets
+# Secrets — never commit API keys or credentials
+.env
+.env.*
 *.env
-.env.local
-.env*.local
+*.pem
+*.key
+secrets/
 
 # Editor
 .vscode/
