@@ -1,4 +1,4 @@
-import { useState, useMemo, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
 import { type Translations } from "../i18n";
 import { useProgress } from "../hooks/useProgress";
 import SpeakButton from "../components/SpeakButton";

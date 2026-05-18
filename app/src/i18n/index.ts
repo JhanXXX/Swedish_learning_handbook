@@ -606,7 +606,7 @@ export const t = {
 // can be passed where Translations is expected.
 type Loosen<T> =
   T extends string ? string
-  : T extends readonly (infer U)[] ? Loosen<U>[]
+  : T extends readonly (infer U)[] ? readonly Loosen<U>[]
   : { [K in keyof T]: Loosen<T[K]> };
 
 export type Translations = Loosen<(typeof t)["zh"]>;

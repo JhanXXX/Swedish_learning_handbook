@@ -14,32 +14,22 @@ export function changeTTSEngine(engine: TTSEngine) {
   window.dispatchEvent(new Event("tts-engine-changed"));
 }
 
-// ── Voice helpers ─────────────────────────────────────────────────────────────
+// ── Eager voice cache — populated at module load so first click is instant ────
+let _voices: SpeechSynthesisVoice[] = [];
+if (typeof window !== "undefined" && "speechSynthesis" in window) {
+  const refreshVoices = () => { _voices = window.speechSynthesis.getVoices(); };
+  refreshVoices();
+  window.speechSynthesis.addEventListener("voiceschanged", refreshVoices);
+}
+
 export function getSwedishVoice(): SpeechSynthesisVoice | null {
   if (!("speechSynthesis" in window)) return null;
-  const voices = window.speechSynthesis.getVoices();
-  return (
-    voices.find((v) => v.lang === "sv-SE") ??
-    voices.find((v) => v.lang.startsWith("sv")) ??
-    null
-  );
+  const voices = _voices.length > 0 ? _voices : window.speechSynthesis.getVoices();
+  return voices.find((v) => v.lang === "sv-SE") ?? voices.find((v) => v.lang.startsWith("sv")) ?? null;
 }
 
 export function hasSwedishVoice(): boolean {
   return getSwedishVoice() !== null;
-}
-
-function waitForVoices(timeoutMs = 2000): Promise<SpeechSynthesisVoice[]> {
-  return new Promise((resolve) => {
-    const voices = window.speechSynthesis.getVoices();
-    if (voices.length > 0) { resolve(voices); return; }
-    const timer = setTimeout(() => resolve(window.speechSynthesis.getVoices()), timeoutMs);
-    window.speechSynthesis.addEventListener("voiceschanged", function handler() {
-      clearTimeout(timer);
-      window.speechSynthesis.removeEventListener("voiceschanged", handler);
-      resolve(window.speechSynthesis.getVoices());
-    });
-  });
 }
 
 // ── OpenAI TTS ────────────────────────────────────────────────────────────────
@@ -77,35 +67,38 @@ async function speakOpenAI(
 }
 
 // ── Browser TTS ───────────────────────────────────────────────────────────────
-async function speakBrowser(
+function speakBrowser(
   text: string, onStart: () => void, onEnd: () => void, onError: (msg: string) => void,
-): Promise<void> {
+): void {
   if (!("speechSynthesis" in window)) { onError("not-supported"); onEnd(); return; }
 
   window.speechSynthesis.cancel();
-  await new Promise((r) => setTimeout(r, 80));
 
-  const voices = await waitForVoices();
-  const svVoice = voices.find((v) => v.lang === "sv-SE") ?? voices.find((v) => v.lang.startsWith("sv"));
-
+  const svVoice = getSwedishVoice();
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "sv-SE";
   utterance.rate = 0.9;
   if (svVoice) utterance.voice = svVoice;
 
-  // Only report failure after speech definitely didn't start (silent browser drop).
-  // Use "no-sv-voice" hint when no Swedish voice is installed, since that's the likely cause.
-  let started = false;
-  const failTimer = setTimeout(() => {
-    if (!started) { onError(svVoice ? "silent-fail" : "no-sv-voice"); onEnd(); }
-  }, 3000);
+  // Give immediate visual feedback — don't make user wait for onstart
+  onStart();
 
-  utterance.onstart = () => { started = true; clearTimeout(failTimer); onStart(); };
-  utterance.onend = () => { clearTimeout(failTimer); onEnd(); };
+  // Guard against onEnd being called twice (failTimer + utterance.onend race)
+  let ended = false;
+  const safeEnd = () => { if (!ended) { ended = true; onEnd(); } };
+
+  // If onstart never fires within 4s the browser silently dropped the utterance
+  const failTimer = setTimeout(() => {
+    safeEnd();
+    onError(svVoice ? "silent-fail" : "no-sv-voice");
+  }, 4000);
+
+  utterance.onstart = () => { clearTimeout(failTimer); };
+  utterance.onend = () => { clearTimeout(failTimer); safeEnd(); };
   utterance.onerror = (e) => {
     clearTimeout(failTimer);
+    safeEnd();
     if (e.error !== "interrupted") onError(e.error);
-    onEnd();
   };
 
   window.speechSynthesis.speak(utterance);
@@ -137,9 +130,9 @@ export function useSpeech() {
 
     if (engine === "openai") {
       const ok = await speakOpenAI(text, onStart, onEnd, onError);
-      if (!ok) await speakBrowser(text, onStart, onEnd, onError);
+      if (!ok) speakBrowser(text, onStart, onEnd, onError);
     } else {
-      await speakBrowser(text, onStart, onEnd, onError);
+      speakBrowser(text, onStart, onEnd, onError);
     }
   }, [engine]);
 

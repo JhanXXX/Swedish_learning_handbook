@@ -2,7 +2,7 @@ import { type Translations } from "../i18n";
 
 interface Props { tr: Translations }
 
-const GITHUB_BASE = "https://github.com/oranju/swedish-handbook/blob/main/handbook";
+const GITHUB_BASE = "https://github.com/JhanXXX/Swedish_learning_handbook/blob/main/handbook";
 
 export default function Handbook({ tr }: Props) {
   const h = tr.handbook;
