@@ -102,9 +102,7 @@ function speakBrowser(
     if (e.error !== "interrupted") onError(e.error);
   };
 
-  // Chrome silently drops speak() called immediately after cancel().
-  // A 100 ms gap is enough to let the engine reset.
-  setTimeout(() => window.speechSynthesis.speak(utterance), 100);
+  window.speechSynthesis.speak(utterance);
 }
 
 // ── Hook ──────────────────────────────────────────────────────────────────────
