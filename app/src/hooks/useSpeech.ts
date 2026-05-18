@@ -1,20 +1,6 @@
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
-export type TTSEngine = "browser" | "openai";
-
-const TTS_ENGINE_KEY = "sv_tts_engine";
-const audioCache = new Map<string, string>();
-
-export function getTTSEngine(): TTSEngine {
-  return (localStorage.getItem(TTS_ENGINE_KEY) ?? "browser") as TTSEngine;
-}
-
-export function changeTTSEngine(engine: TTSEngine) {
-  localStorage.setItem(TTS_ENGINE_KEY, engine);
-  window.dispatchEvent(new Event("tts-engine-changed"));
-}
-
-// ── Voice cache — populated eagerly at module load ────────────────────────────
+// Voices load asynchronously in Chrome — cache them at module level
 let _voices: SpeechSynthesisVoice[] = [];
 if (typeof window !== "undefined" && "speechSynthesis" in window) {
   const refresh = () => { _voices = window.speechSynthesis.getVoices(); };
@@ -23,8 +9,7 @@ if (typeof window !== "undefined" && "speechSynthesis" in window) {
 }
 
 export function getSwedishVoice(): SpeechSynthesisVoice | null {
-  if (!("speechSynthesis" in window)) return null;
-  const v = _voices.length > 0 ? _voices : window.speechSynthesis.getVoices();
+  const v = _voices.length > 0 ? _voices : (window.speechSynthesis?.getVoices() ?? []);
   return v.find((x) => x.lang === "sv-SE") ?? v.find((x) => x.lang.startsWith("sv")) ?? null;
 }
 
@@ -32,115 +17,35 @@ export function hasSwedishVoice(): boolean {
   return getSwedishVoice() !== null;
 }
 
-// ── OpenAI TTS ────────────────────────────────────────────────────────────────
-async function speakOpenAI(
-  text: string, onStart: () => void, onEnd: () => void, onError: (msg: string) => void,
-): Promise<boolean> {
-  const apiKey = localStorage.getItem("sv_key_openai") ?? "";
-  if (!apiKey) { onError("no-key"); return false; }
-  onStart();
-  try {
-    let url = audioCache.get(text);
-    if (!url) {
-      const res = await fetch("https://api.openai.com/v1/audio/speech", {
-        method: "POST",
-        headers: { "Content-Type": "application/json", Authorization: `Bearer ${apiKey}` },
-        body: JSON.stringify({ model: "tts-1", voice: "nova", input: text, speed: 0.9 }),
-      });
-      if (!res.ok) {
-        const body = await res.json().catch(() => ({}));
-        throw new Error(body?.error?.message ?? `HTTP ${res.status}`);
-      }
-      url = URL.createObjectURL(await res.blob());
-      audioCache.set(text, url);
-    }
-    const audio = new Audio(url);
-    audio.onended = onEnd;
-    audio.onerror = () => { onError("playback"); onEnd(); };
-    await audio.play();
-    return true;
-  } catch (e) {
-    onError((e as Error).message ?? "unknown");
-    onEnd();
-    return false;
-  }
-}
-
-// ── Browser TTS ───────────────────────────────────────────────────────────────
-function speakBrowser(
-  text: string, onStart: () => void, onEnd: () => void, onError: (msg: string) => void,
-): void {
-  if (!("speechSynthesis" in window)) { onError("not-supported"); onEnd(); return; }
-
-  // Cancel any in-progress speech
-  window.speechSynthesis.cancel();
-
-  const svVoice = getSwedishVoice();
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "sv-SE";
-  utterance.rate = 0.85;
-  if (svVoice) utterance.voice = svVoice;
-
-  // Show ⏹ immediately so the user knows the click registered
-  onStart();
-
-  // Guard against onEnd being called more than once
-  let ended = false;
-  const safeEnd = () => { if (!ended) { ended = true; onEnd(); } };
-
-  // If speech never actually starts, report after 5s
-  const failTimer = setTimeout(() => {
-    safeEnd();
-    onError(svVoice ? "silent-fail" : "no-sv-voice");
-  }, 5000);
-
-  utterance.onstart = () => { clearTimeout(failTimer); };
-  utterance.onend   = () => { clearTimeout(failTimer); safeEnd(); };
-  utterance.onerror = (e) => {
-    clearTimeout(failTimer);
-    safeEnd();
-    if (e.error !== "interrupted") onError(e.error);
-  };
-
-  window.speechSynthesis.speak(utterance);
-}
-
-// ── Hook ──────────────────────────────────────────────────────────────────────
 export function useSpeech() {
   const [speaking, setSpeaking] = useState(false);
-  const [speechError, setSpeechError] = useState<string | null>(null);
-  const [engine, setEngineState] = useState<TTSEngine>(getTTSEngine);
-  const setSpeakingRef = useRef(setSpeaking);
-  setSpeakingRef.current = setSpeaking;
 
   useEffect(() => {
-    const handler = () => setEngineState(getTTSEngine());
-    window.addEventListener("tts-engine-changed", handler);
-    return () => {
-      window.removeEventListener("tts-engine-changed", handler);
-      window.speechSynthesis?.cancel();
-    };
+    return () => { window.speechSynthesis?.cancel(); };
   }, []);
 
-  const speak = useCallback(async (text: string) => {
-    if (!text.trim()) return;
-    setSpeechError(null);
-    const onStart = () => setSpeakingRef.current(true);
-    const onEnd   = () => setSpeakingRef.current(false);
-    const onError = (msg: string) => setSpeechError(msg);
+  const speak = useCallback((text: string) => {
+    if (!text.trim() || !("speechSynthesis" in window)) return;
 
-    if (engine === "openai") {
-      const ok = await speakOpenAI(text, onStart, onEnd, onError);
-      if (!ok) speakBrowser(text, onStart, onEnd, onError);
-    } else {
-      speakBrowser(text, onStart, onEnd, onError);
-    }
-  }, [engine]);
+    if (window.speechSynthesis.speaking) window.speechSynthesis.cancel();
+
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = "sv-SE";
+    utterance.rate = 0.85;
+    const voice = getSwedishVoice();
+    if (voice) utterance.voice = voice;
+
+    utterance.onstart = () => setSpeaking(true);
+    utterance.onend   = () => setSpeaking(false);
+    utterance.onerror = (e) => { if (e.error !== "interrupted") setSpeaking(false); };
+
+    window.speechSynthesis.speak(utterance);
+  }, []);
 
   const stop = useCallback(() => {
     window.speechSynthesis?.cancel();
     setSpeaking(false);
   }, []);
 
-  return { speak, stop, speaking, speechError, engine };
+  return { speak, speaking, stop };
 }
