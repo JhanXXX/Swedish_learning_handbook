@@ -28,7 +28,7 @@ export default function App() {
           </Routes>
         </main>
         <footer className="app-footer">
-          Made with 🥕 by <a href="https://github.com/JhanXXX" target="_blank" rel="noopener noreferrer">Juju Carrot</a>
+          Made with 🥕 by <a href="https://jhanxxx.github.io/" target="_blank" rel="noopener noreferrer">Juju Carrot</a>
         </footer>
       </div>
     </BrowserRouter>

@@ -27,7 +27,10 @@ export function useSpeech() {
   const speak = useCallback((text: string) => {
     if (!text.trim() || !("speechSynthesis" in window)) return;
 
-    if (window.speechSynthesis.speaking) window.speechSynthesis.cancel();
+    const ss = window.speechSynthesis;
+    if (ss.speaking) ss.cancel();
+    // Chrome silently pauses the TTS engine after page load; resume() unblocks it
+    ss.resume();
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = "sv-SE";
@@ -39,7 +42,7 @@ export function useSpeech() {
     utterance.onend   = () => setSpeaking(false);
     utterance.onerror = (e) => { if (e.error !== "interrupted") setSpeaking(false); };
 
-    window.speechSynthesis.speak(utterance);
+    ss.speak(utterance);
   }, []);
 
   const stop = useCallback(() => {
